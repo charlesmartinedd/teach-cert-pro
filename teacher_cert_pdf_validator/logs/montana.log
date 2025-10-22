@@ -1,0 +1,37 @@
+2025-10-16 10:54:31 - state_montana - INFO - ============================================================
+2025-10-16 10:54:31 - state_montana - INFO - Starting processing for Montana
+2025-10-16 10:54:31 - state_montana - INFO - ============================================================
+2025-10-16 10:54:31 - state_montana - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:54:31 - state_montana - INFO - Query 1/15: Montana teacher certification test site:gov filetype:pdf
+2025-10-16 10:54:32 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:33 - state_montana - INFO - Query 2/15: Montana teaching license exam site:gov filetype:pdf
+2025-10-16 10:54:34 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:35 - state_montana - INFO - Query 3/15: Montana educator certification site:.gov filetype:pdf
+2025-10-16 10:54:36 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:37 - state_montana - INFO - Query 4/15: Montana teacher certification study guide filetype:pdf
+2025-10-16 10:54:38 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:39 - state_montana - INFO - Query 5/15: Montana teaching exam handbook filetype:pdf
+2025-10-16 10:54:40 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:41 - state_montana - INFO - Query 6/15: Montana educator test preparation guide filetype:pdf
+2025-10-16 10:54:41 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:42 - state_montana - INFO - Query 7/15: Montana department of education teacher certification filetype:pdf
+2025-10-16 10:54:43 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:44 - state_montana - INFO - Query 8/15: Montana state teacher exam requirements filetype:pdf
+2025-10-16 10:54:45 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:46 - state_montana - INFO - Query 9/15: Montana teaching license application guide filetype:pdf
+2025-10-16 10:54:47 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:48 - state_montana - INFO - Query 10/15: Montana teacher certification practice test pdf
+2025-10-16 10:54:49 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:50 - state_montana - INFO - Query 11/15: Montana teaching credential exam guide pdf
+2025-10-16 10:54:51 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:52 - state_montana - INFO - Query 12/15: Montana educator licensure test pdf
+2025-10-16 10:54:53 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:54 - state_montana - INFO - Query 13/15: Montana teacher praxis exam pdf
+2025-10-16 10:54:55 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:56 - state_montana - INFO - Query 14/15: Montana teaching assessment guide pdf
+2025-10-16 10:54:57 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:54:58 - state_montana - INFO - Query 15/15: Montana educator qualification test pdf
+2025-10-16 10:54:59 - state_montana - INFO -   → Found 0 results
+2025-10-16 10:55:00 - state_montana - INFO - Total unique URLs collected: 0
+2025-10-16 10:55:00 - state_montana - WARNING - No URLs found in search results
+2025-10-16 10:55:00 - state_montana - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

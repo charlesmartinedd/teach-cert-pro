@@ -1,0 +1,85 @@
+{
+  "courseId": "cset-multiple-subjects",
+  "examId": "cset-multiple-subjects",
+  "title": "CSET Multiple Subjects - Complete Course",
+  "description": "Comprehensive preparation course for the California Subject Examinations for Teachers (CSET) Multiple Subjects exam. Master all three subtests with in-depth lessons, practice activities, and quizzes.",
+  "duration": "120 hours",
+  "level": "Intermediate to Advanced",
+  "instructor": {
+    "name": "Dr. Jennifer Martinez",
+    "title": "Former California Elementary School Principal",
+    "bio": "Dr. Martinez has over 20 years of experience in California education and has helped 500+ teachers pass their CSET exams.",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80"
+  },
+  "modules": [
+    {
+      "id": "module-1",
+      "number": 1,
+      "title": "Reading, Language & Literature",
+      "description": "Master reading comprehension strategies, language development, and literature analysis for elementary education.",
+      "duration": "25 hours",
+      "lessons": 8,
+      "quizQuestions": 100,
+      "thumbnail": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+    },
+    {
+      "id": "module-2",
+      "number": 2,
+      "title": "History & Social Science",
+      "description": "Comprehensive coverage of world history, U.S. history, geography, economics, and political science.",
+      "duration": "25 hours",
+      "lessons": 7,
+      "quizQuestions": 100,
+      "thumbnail": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=800&q=80"
+    },
+    {
+      "id": "module-3",
+      "number": 3,
+      "title": "Science & Scientific Inquiry",
+      "description": "In-depth exploration of physical science, life science, earth science, and scientific methods.",
+      "duration": "25 hours",
+      "lessons": 6,
+      "quizQuestions": 100,
+      "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80"
+    },
+    {
+      "id": "module-4",
+      "number": 4,
+      "title": "Mathematics",
+      "description": "Complete mathematics review covering number sense, algebra, geometry, statistics, and probability.",
+      "duration": "25 hours",
+      "lessons": 6,
+      "quizQuestions": 100,
+      "thumbnail": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80"
+    },
+    {
+      "id": "module-5",
+      "number": 5,
+      "title": "Physical Education, Human Development & Arts",
+      "description": "Covers PE, child development, visual arts, performing arts, and health education.",
+      "duration": "20 hours",
+      "lessons": 5,
+      "quizQuestions": 100,
+      "thumbnail": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&q=80"
+    }
+  ],
+  "totalLessons": 32,
+  "totalQuizQuestions": 500,
+  "features": [
+    "32 comprehensive video lessons",
+    "500+ practice questions with detailed explanations",
+    "Downloadable study guides and cheat sheets",
+    "Interactive flashcards for key concepts",
+    "Progress tracking and analytics",
+    "Community discussion forums",
+    "Mobile-friendly learning platform",
+    "Lifetime access to course materials"
+  ],
+  "learningOutcomes": [
+    "Demonstrate mastery of elementary-level reading and language arts instruction",
+    "Apply knowledge of history, geography, and social sciences in educational contexts",
+    "Understand and teach scientific concepts and inquiry methods",
+    "Solve and teach mathematical problems across all elementary topics",
+    "Integrate physical education, arts, and human development into curriculum"
+  ]
+}

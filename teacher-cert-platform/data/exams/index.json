@@ -1,0 +1,114 @@
+{
+  "states": [
+    {
+      "id": "california",
+      "name": "California",
+      "abbreviation": "CA",
+      "description": "California teacher certification exams include CBEST for basic skills and CSET for subject matter competency.",
+      "exams": [
+        {
+          "id": "cset-multiple-subjects",
+          "name": "CSET Multiple Subjects",
+          "fullName": "California Subject Examinations for Teachers: Multiple Subjects",
+          "state": "California",
+          "type": "Subject Matter",
+          "description": "Required for elementary teaching credentials. Covers all subjects taught at the elementary level.",
+          "subtests": ["Subtest I: Reading, Language & Literature, History & Social Science", "Subtest II: Science, Mathematics", "Subtest III: Physical Education, Human Development, Visual & Performing Arts"],
+          "duration": "5 hours",
+          "passingScore": 220,
+          "cost": 99,
+          "modules": 5,
+          "totalLessons": 32,
+          "practiceQuestions": 500,
+          "studyHours": 120,
+          "thumbnail": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+        },
+        {
+          "id": "cbest",
+          "name": "CBEST",
+          "fullName": "California Basic Educational Skills Test",
+          "state": "California",
+          "type": "Basic Skills",
+          "description": "Basic skills test in reading, mathematics, and writing for prospective teachers.",
+          "subtests": ["Reading", "Mathematics", "Writing"],
+          "duration": "4 hours",
+          "passingScore": 123,
+          "cost": 41,
+          "modules": 3,
+          "totalLessons": 18,
+          "practiceQuestions": 300,
+          "studyHours": 60,
+          "thumbnail": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80",
+          "note": "As of 2024, CBEST is no longer required if you hold a bachelor's degree"
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "name": "New York",
+      "abbreviation": "NY",
+      "description": "New York teacher certification exams include NYSTCE assessments for various teaching certificates.",
+      "exams": [
+        {
+          "id": "nystce-eas",
+          "name": "NYSTCE EAS",
+          "fullName": "New York State Teacher Certification Examinations: Educating All Students",
+          "state": "New York",
+          "type": "General Education",
+          "description": "Required for all teaching certificates. Assesses knowledge and skills in areas applicable to all classroom settings.",
+          "subtests": ["Foundations of Learning and Teaching", "Diverse Student Populations"],
+          "duration": "2 hours",
+          "passingScore": 520,
+          "cost": 134,
+          "modules": 4,
+          "totalLessons": 20,
+          "practiceQuestions": 250,
+          "studyHours": 40,
+          "thumbnail": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&q=80"
+        },
+        {
+          "id": "nystce-cst-multi",
+          "name": "NYSTCE CST: Multi-Subject",
+          "fullName": "New York State Teacher Certification Examinations: Content Specialty Test for Multi-Subject Teachers",
+          "state": "New York",
+          "type": "Content Knowledge",
+          "description": "Required for childhood education (Grades 1-6) certification.",
+          "subtests": ["English Language Arts", "Mathematics", "Science and Technology", "Social Studies", "The Fine Arts, Health, and Fitness"],
+          "duration": "4 hours",
+          "passingScore": 520,
+          "cost": 134,
+          "modules": 5,
+          "totalLessons": 28,
+          "practiceQuestions": 400,
+          "studyHours": 90,
+          "thumbnail": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=800&q=80"
+        }
+      ]
+    },
+    {
+      "id": "texas",
+      "name": "Texas",
+      "abbreviation": "TX",
+      "description": "Texas teacher certification exams (TExES) measure content and pedagogical knowledge for teaching roles.",
+      "exams": [
+        {
+          "id": "texes-core-subjects",
+          "name": "TExES Core Subjects EC-6",
+          "fullName": "Texas Examinations of Educator Standards: Core Subjects EC-6",
+          "state": "Texas",
+          "type": "Content and Pedagogy",
+          "description": "Required for early childhood through 6th grade generalist certification.",
+          "subtests": ["English Language Arts and Reading", "Mathematics", "Social Studies", "Science", "Fine Arts, Health, and Physical Education"],
+          "duration": "5 hours",
+          "passingScore": 240,
+          "cost": 116,
+          "modules": 5,
+          "totalLessons": 30,
+          "practiceQuestions": 450,
+          "studyHours": 100,
+          "thumbnail": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=800&q=80"
+        }
+      ]
+    }
+  ]
+}

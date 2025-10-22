@@ -1,0 +1,37 @@
+2025-10-16 10:46:49 - state_georgia - INFO - ============================================================
+2025-10-16 10:46:49 - state_georgia - INFO - Starting processing for Georgia
+2025-10-16 10:46:49 - state_georgia - INFO - ============================================================
+2025-10-16 10:46:49 - state_georgia - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:46:49 - state_georgia - INFO - Query 1/15: Georgia teacher certification test site:gov filetype:pdf
+2025-10-16 10:46:50 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:46:51 - state_georgia - INFO - Query 2/15: Georgia teaching license exam site:gov filetype:pdf
+2025-10-16 10:46:52 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:46:53 - state_georgia - INFO - Query 3/15: Georgia educator certification site:.gov filetype:pdf
+2025-10-16 10:46:54 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:46:55 - state_georgia - INFO - Query 4/15: Georgia teacher certification study guide filetype:pdf
+2025-10-16 10:46:56 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:46:57 - state_georgia - INFO - Query 5/15: Georgia teaching exam handbook filetype:pdf
+2025-10-16 10:46:57 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:46:58 - state_georgia - INFO - Query 6/15: Georgia educator test preparation guide filetype:pdf
+2025-10-16 10:46:59 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:00 - state_georgia - INFO - Query 7/15: Georgia department of education teacher certification filetype:pdf
+2025-10-16 10:47:01 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:02 - state_georgia - INFO - Query 8/15: Georgia state teacher exam requirements filetype:pdf
+2025-10-16 10:47:03 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:04 - state_georgia - INFO - Query 9/15: Georgia teaching license application guide filetype:pdf
+2025-10-16 10:47:05 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:06 - state_georgia - INFO - Query 10/15: Georgia teacher certification practice test pdf
+2025-10-16 10:47:07 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:08 - state_georgia - INFO - Query 11/15: Georgia teaching credential exam guide pdf
+2025-10-16 10:47:09 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:10 - state_georgia - INFO - Query 12/15: Georgia educator licensure test pdf
+2025-10-16 10:47:11 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:12 - state_georgia - INFO - Query 13/15: Georgia teacher praxis exam pdf
+2025-10-16 10:47:13 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:14 - state_georgia - INFO - Query 14/15: Georgia teaching assessment guide pdf
+2025-10-16 10:47:15 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:16 - state_georgia - INFO - Query 15/15: Georgia educator qualification test pdf
+2025-10-16 10:47:17 - state_georgia - INFO -   → Found 0 results
+2025-10-16 10:47:18 - state_georgia - INFO - Total unique URLs collected: 0
+2025-10-16 10:47:18 - state_georgia - WARNING - No URLs found in search results
+2025-10-16 10:47:18 - state_georgia - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

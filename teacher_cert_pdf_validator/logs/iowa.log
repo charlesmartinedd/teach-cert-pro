@@ -1,0 +1,37 @@
+2025-10-16 10:49:13 - state_iowa - INFO - ============================================================
+2025-10-16 10:49:13 - state_iowa - INFO - Starting processing for Iowa
+2025-10-16 10:49:13 - state_iowa - INFO - ============================================================
+2025-10-16 10:49:13 - state_iowa - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:49:13 - state_iowa - INFO - Query 1/15: Iowa teacher certification test site:gov filetype:pdf
+2025-10-16 10:49:14 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:15 - state_iowa - INFO - Query 2/15: Iowa teaching license exam site:gov filetype:pdf
+2025-10-16 10:49:15 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:16 - state_iowa - INFO - Query 3/15: Iowa educator certification site:.gov filetype:pdf
+2025-10-16 10:49:17 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:18 - state_iowa - INFO - Query 4/15: Iowa teacher certification study guide filetype:pdf
+2025-10-16 10:49:19 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:20 - state_iowa - INFO - Query 5/15: Iowa teaching exam handbook filetype:pdf
+2025-10-16 10:49:21 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:22 - state_iowa - INFO - Query 6/15: Iowa educator test preparation guide filetype:pdf
+2025-10-16 10:49:23 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:24 - state_iowa - INFO - Query 7/15: Iowa department of education teacher certification filetype:pdf
+2025-10-16 10:49:25 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:26 - state_iowa - INFO - Query 8/15: Iowa state teacher exam requirements filetype:pdf
+2025-10-16 10:49:27 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:28 - state_iowa - INFO - Query 9/15: Iowa teaching license application guide filetype:pdf
+2025-10-16 10:49:29 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:30 - state_iowa - INFO - Query 10/15: Iowa teacher certification practice test pdf
+2025-10-16 10:49:31 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:32 - state_iowa - INFO - Query 11/15: Iowa teaching credential exam guide pdf
+2025-10-16 10:49:33 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:34 - state_iowa - INFO - Query 12/15: Iowa educator licensure test pdf
+2025-10-16 10:49:35 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:36 - state_iowa - INFO - Query 13/15: Iowa teacher praxis exam pdf
+2025-10-16 10:49:37 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:38 - state_iowa - INFO - Query 14/15: Iowa teaching assessment guide pdf
+2025-10-16 10:49:39 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:40 - state_iowa - INFO - Query 15/15: Iowa educator qualification test pdf
+2025-10-16 10:49:40 - state_iowa - INFO -   → Found 0 results
+2025-10-16 10:49:41 - state_iowa - INFO - Total unique URLs collected: 0
+2025-10-16 10:49:41 - state_iowa - WARNING - No URLs found in search results
+2025-10-16 10:49:41 - state_iowa - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

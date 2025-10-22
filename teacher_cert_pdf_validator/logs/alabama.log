@@ -1,0 +1,37 @@
+2025-10-16 10:42:27 - state_alabama - INFO - ============================================================
+2025-10-16 10:42:27 - state_alabama - INFO - Starting processing for Alabama
+2025-10-16 10:42:27 - state_alabama - INFO - ============================================================
+2025-10-16 10:42:27 - state_alabama - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:42:27 - state_alabama - INFO - Query 1/15: Alabama teacher certification test site:gov filetype:pdf
+2025-10-16 10:42:28 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:29 - state_alabama - INFO - Query 2/15: Alabama teaching license exam site:gov filetype:pdf
+2025-10-16 10:42:30 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:31 - state_alabama - INFO - Query 3/15: Alabama educator certification site:.gov filetype:pdf
+2025-10-16 10:42:32 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:33 - state_alabama - INFO - Query 4/15: Alabama teacher certification study guide filetype:pdf
+2025-10-16 10:42:33 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:34 - state_alabama - INFO - Query 5/15: Alabama teaching exam handbook filetype:pdf
+2025-10-16 10:42:35 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:36 - state_alabama - INFO - Query 6/15: Alabama educator test preparation guide filetype:pdf
+2025-10-16 10:42:37 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:38 - state_alabama - INFO - Query 7/15: Alabama department of education teacher certification filetype:pdf
+2025-10-16 10:42:39 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:40 - state_alabama - INFO - Query 8/15: Alabama state teacher exam requirements filetype:pdf
+2025-10-16 10:42:41 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:42 - state_alabama - INFO - Query 9/15: Alabama teaching license application guide filetype:pdf
+2025-10-16 10:42:43 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:44 - state_alabama - INFO - Query 10/15: Alabama teacher certification practice test pdf
+2025-10-16 10:42:45 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:46 - state_alabama - INFO - Query 11/15: Alabama teaching credential exam guide pdf
+2025-10-16 10:42:47 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:48 - state_alabama - INFO - Query 12/15: Alabama educator licensure test pdf
+2025-10-16 10:42:49 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:50 - state_alabama - INFO - Query 13/15: Alabama teacher praxis exam pdf
+2025-10-16 10:42:51 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:52 - state_alabama - INFO - Query 14/15: Alabama teaching assessment guide pdf
+2025-10-16 10:42:53 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:54 - state_alabama - INFO - Query 15/15: Alabama educator qualification test pdf
+2025-10-16 10:42:55 - state_alabama - INFO -   → Found 0 results
+2025-10-16 10:42:56 - state_alabama - INFO - Total unique URLs collected: 0
+2025-10-16 10:42:56 - state_alabama - WARNING - No URLs found in search results
+2025-10-16 10:42:56 - state_alabama - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

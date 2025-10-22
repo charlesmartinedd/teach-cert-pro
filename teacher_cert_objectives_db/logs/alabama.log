@@ -1,0 +1,13 @@
+2025-10-16 11:09:10,155 - INFO - ============================================================
+2025-10-16 11:09:10,155 - INFO - Processing Alabama (AL)
+2025-10-16 11:09:10,155 - INFO - ============================================================
+2025-10-16 11:09:10,199 - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:10,223 - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:10,498 - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:10,686 - INFO - Created test: Alabama Teaching Foundations (AL State Exam)
+2025-10-16 11:09:10,853 - INFO - 
+Completed Alabama:
+2025-10-16 11:09:10,854 - INFO -   Tests: 3
+2025-10-16 11:09:10,854 - INFO -   Objectives: 21
+2025-10-16 11:09:10,855 - INFO -   Verified: 0
+2025-10-16 11:09:10,855 - INFO -   Inferred: 21

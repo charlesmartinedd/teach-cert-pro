@@ -1,0 +1,37 @@
+2025-10-16 10:50:40 - state_louisiana - INFO - ============================================================
+2025-10-16 10:50:40 - state_louisiana - INFO - Starting processing for Louisiana
+2025-10-16 10:50:40 - state_louisiana - INFO - ============================================================
+2025-10-16 10:50:40 - state_louisiana - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:50:40 - state_louisiana - INFO - Query 1/15: Louisiana teacher certification test site:gov filetype:pdf
+2025-10-16 10:50:41 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:42 - state_louisiana - INFO - Query 2/15: Louisiana teaching license exam site:gov filetype:pdf
+2025-10-16 10:50:43 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:44 - state_louisiana - INFO - Query 3/15: Louisiana educator certification site:.gov filetype:pdf
+2025-10-16 10:50:44 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:45 - state_louisiana - INFO - Query 4/15: Louisiana teacher certification study guide filetype:pdf
+2025-10-16 10:50:46 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:47 - state_louisiana - INFO - Query 5/15: Louisiana teaching exam handbook filetype:pdf
+2025-10-16 10:50:48 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:49 - state_louisiana - INFO - Query 6/15: Louisiana educator test preparation guide filetype:pdf
+2025-10-16 10:50:50 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:51 - state_louisiana - INFO - Query 7/15: Louisiana department of education teacher certification filetype:pdf
+2025-10-16 10:50:52 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:53 - state_louisiana - INFO - Query 8/15: Louisiana state teacher exam requirements filetype:pdf
+2025-10-16 10:50:54 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:55 - state_louisiana - INFO - Query 9/15: Louisiana teaching license application guide filetype:pdf
+2025-10-16 10:50:56 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:57 - state_louisiana - INFO - Query 10/15: Louisiana teacher certification practice test pdf
+2025-10-16 10:50:58 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:50:59 - state_louisiana - INFO - Query 11/15: Louisiana teaching credential exam guide pdf
+2025-10-16 10:51:00 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:51:01 - state_louisiana - INFO - Query 12/15: Louisiana educator licensure test pdf
+2025-10-16 10:51:02 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:51:03 - state_louisiana - INFO - Query 13/15: Louisiana teacher praxis exam pdf
+2025-10-16 10:51:04 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:51:05 - state_louisiana - INFO - Query 14/15: Louisiana teaching assessment guide pdf
+2025-10-16 10:51:06 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:51:07 - state_louisiana - INFO - Query 15/15: Louisiana educator qualification test pdf
+2025-10-16 10:51:07 - state_louisiana - INFO -   → Found 0 results
+2025-10-16 10:51:08 - state_louisiana - INFO - Total unique URLs collected: 0
+2025-10-16 10:51:08 - state_louisiana - WARNING - No URLs found in search results
+2025-10-16 10:51:08 - state_louisiana - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

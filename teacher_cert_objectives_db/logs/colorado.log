@@ -1,0 +1,13 @@
+2025-10-16 11:09:13,328 - INFO - ============================================================
+2025-10-16 11:09:13,329 - INFO - Processing Colorado (CO)
+2025-10-16 11:09:13,329 - INFO - ============================================================
+2025-10-16 11:09:13,391 - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:13,418 - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:13,627 - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:13,756 - INFO - Created test: Colorado Teaching Foundations (CO State Exam)
+2025-10-16 11:09:13,880 - INFO - 
+Completed Colorado:
+2025-10-16 11:09:13,880 - INFO -   Tests: 3
+2025-10-16 11:09:13,880 - INFO -   Objectives: 21
+2025-10-16 11:09:13,882 - INFO -   Verified: 0
+2025-10-16 11:09:13,882 - INFO -   Inferred: 21

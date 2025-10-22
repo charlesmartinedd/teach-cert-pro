@@ -1,0 +1,13 @@
+2025-10-16 11:09:13,883 - INFO - ============================================================
+2025-10-16 11:09:13,883 - INFO - Processing Connecticut (CT)
+2025-10-16 11:09:13,884 - INFO - ============================================================
+2025-10-16 11:09:13,914 - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:13,933 - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:14,131 - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:14,335 - INFO - Created test: Connecticut Teaching Foundations (CT State Exam)
+2025-10-16 11:09:14,470 - INFO - 
+Completed Connecticut:
+2025-10-16 11:09:14,470 - INFO -   Tests: 3
+2025-10-16 11:09:14,470 - INFO -   Objectives: 21
+2025-10-16 11:09:14,470 - INFO -   Verified: 0
+2025-10-16 11:09:14,471 - INFO -   Inferred: 21

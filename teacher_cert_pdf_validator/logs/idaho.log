@@ -1,0 +1,37 @@
+2025-10-16 10:47:46 - state_idaho - INFO - ============================================================
+2025-10-16 10:47:46 - state_idaho - INFO - Starting processing for Idaho
+2025-10-16 10:47:46 - state_idaho - INFO - ============================================================
+2025-10-16 10:47:46 - state_idaho - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:47:46 - state_idaho - INFO - Query 1/15: Idaho teacher certification test site:gov filetype:pdf
+2025-10-16 10:47:47 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:47:48 - state_idaho - INFO - Query 2/15: Idaho teaching license exam site:gov filetype:pdf
+2025-10-16 10:47:49 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:47:50 - state_idaho - INFO - Query 3/15: Idaho educator certification site:.gov filetype:pdf
+2025-10-16 10:47:51 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:47:52 - state_idaho - INFO - Query 4/15: Idaho teacher certification study guide filetype:pdf
+2025-10-16 10:47:53 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:47:54 - state_idaho - INFO - Query 5/15: Idaho teaching exam handbook filetype:pdf
+2025-10-16 10:47:55 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:47:56 - state_idaho - INFO - Query 6/15: Idaho educator test preparation guide filetype:pdf
+2025-10-16 10:47:57 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:47:58 - state_idaho - INFO - Query 7/15: Idaho department of education teacher certification filetype:pdf
+2025-10-16 10:47:59 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:48:00 - state_idaho - INFO - Query 8/15: Idaho state teacher exam requirements filetype:pdf
+2025-10-16 10:48:01 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:48:02 - state_idaho - INFO - Query 9/15: Idaho teaching license application guide filetype:pdf
+2025-10-16 10:48:03 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:48:04 - state_idaho - INFO - Query 10/15: Idaho teacher certification practice test pdf
+2025-10-16 10:48:04 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:48:05 - state_idaho - INFO - Query 11/15: Idaho teaching credential exam guide pdf
+2025-10-16 10:48:06 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:48:07 - state_idaho - INFO - Query 12/15: Idaho educator licensure test pdf
+2025-10-16 10:48:08 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:48:09 - state_idaho - INFO - Query 13/15: Idaho teacher praxis exam pdf
+2025-10-16 10:48:10 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:48:11 - state_idaho - INFO - Query 14/15: Idaho teaching assessment guide pdf
+2025-10-16 10:48:12 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:48:13 - state_idaho - INFO - Query 15/15: Idaho educator qualification test pdf
+2025-10-16 10:48:14 - state_idaho - INFO -   → Found 0 results
+2025-10-16 10:48:15 - state_idaho - INFO - Total unique URLs collected: 0
+2025-10-16 10:48:15 - state_idaho - WARNING - No URLs found in search results
+2025-10-16 10:48:15 - state_idaho - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

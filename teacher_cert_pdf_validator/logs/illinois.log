@@ -1,0 +1,37 @@
+2025-10-16 10:48:15 - state_illinois - INFO - ============================================================
+2025-10-16 10:48:15 - state_illinois - INFO - Starting processing for Illinois
+2025-10-16 10:48:15 - state_illinois - INFO - ============================================================
+2025-10-16 10:48:15 - state_illinois - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:48:15 - state_illinois - INFO - Query 1/15: Illinois teacher certification test site:gov filetype:pdf
+2025-10-16 10:48:16 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:17 - state_illinois - INFO - Query 2/15: Illinois teaching license exam site:gov filetype:pdf
+2025-10-16 10:48:18 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:19 - state_illinois - INFO - Query 3/15: Illinois educator certification site:.gov filetype:pdf
+2025-10-16 10:48:20 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:21 - state_illinois - INFO - Query 4/15: Illinois teacher certification study guide filetype:pdf
+2025-10-16 10:48:22 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:23 - state_illinois - INFO - Query 5/15: Illinois teaching exam handbook filetype:pdf
+2025-10-16 10:48:24 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:25 - state_illinois - INFO - Query 6/15: Illinois educator test preparation guide filetype:pdf
+2025-10-16 10:48:26 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:27 - state_illinois - INFO - Query 7/15: Illinois department of education teacher certification filetype:pdf
+2025-10-16 10:48:27 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:28 - state_illinois - INFO - Query 8/15: Illinois state teacher exam requirements filetype:pdf
+2025-10-16 10:48:30 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:31 - state_illinois - INFO - Query 9/15: Illinois teaching license application guide filetype:pdf
+2025-10-16 10:48:31 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:32 - state_illinois - INFO - Query 10/15: Illinois teacher certification practice test pdf
+2025-10-16 10:48:33 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:34 - state_illinois - INFO - Query 11/15: Illinois teaching credential exam guide pdf
+2025-10-16 10:48:35 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:36 - state_illinois - INFO - Query 12/15: Illinois educator licensure test pdf
+2025-10-16 10:48:37 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:38 - state_illinois - INFO - Query 13/15: Illinois teacher praxis exam pdf
+2025-10-16 10:48:39 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:40 - state_illinois - INFO - Query 14/15: Illinois teaching assessment guide pdf
+2025-10-16 10:48:41 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:42 - state_illinois - INFO - Query 15/15: Illinois educator qualification test pdf
+2025-10-16 10:48:43 - state_illinois - INFO -   → Found 0 results
+2025-10-16 10:48:44 - state_illinois - INFO - Total unique URLs collected: 0
+2025-10-16 10:48:44 - state_illinois - WARNING - No URLs found in search results
+2025-10-16 10:48:44 - state_illinois - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

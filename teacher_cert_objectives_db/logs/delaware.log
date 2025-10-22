@@ -1,0 +1,13 @@
+2025-10-16 11:09:14,472 - INFO - ============================================================
+2025-10-16 11:09:14,473 - INFO - Processing Delaware (DE)
+2025-10-16 11:09:14,473 - INFO - ============================================================
+2025-10-16 11:09:14,507 - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:14,522 - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:14,745 - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:14,885 - INFO - Created test: Delaware Teaching Foundations (DE State Exam)
+2025-10-16 11:09:15,007 - INFO - 
+Completed Delaware:
+2025-10-16 11:09:15,008 - INFO -   Tests: 3
+2025-10-16 11:09:15,008 - INFO -   Objectives: 21
+2025-10-16 11:09:15,010 - INFO -   Verified: 0
+2025-10-16 11:09:15,010 - INFO -   Inferred: 21

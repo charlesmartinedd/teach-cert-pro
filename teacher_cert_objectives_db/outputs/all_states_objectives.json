@@ -1,0 +1,1922 @@
+{
+  "Alabama": {
+    "state_info": {
+      "name": "Alabama",
+      "abbrev": "AL",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "Alabama Teaching Foundations",
+        "test_code": null,
+        "test_system": "AL State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://al.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in Alabama Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  },
+  "Alaska": {
+    "state_info": {
+      "name": "Alaska",
+      "abbrev": "AK",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "Alaska Teaching Foundations",
+        "test_code": null,
+        "test_system": "AK State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://ak.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in Alaska Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  },
+  "Arizona": {
+    "state_info": {
+      "name": "Arizona",
+      "abbrev": "AZ",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "Arizona Teaching Foundations",
+        "test_code": null,
+        "test_system": "AZ State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://az.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in Arizona Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  },
+  "Arkansas": {
+    "state_info": {
+      "name": "Arkansas",
+      "abbrev": "AR",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "Arkansas Teaching Foundations",
+        "test_code": null,
+        "test_system": "AR State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://ar.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in Arkansas Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  },
+  "California": {
+    "state_info": {
+      "name": "California",
+      "abbrev": "CA",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "California Teaching Foundations",
+        "test_code": null,
+        "test_system": "CA State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://ca.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in California Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  },
+  "Colorado": {
+    "state_info": {
+      "name": "Colorado",
+      "abbrev": "CO",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "Colorado Teaching Foundations",
+        "test_code": null,
+        "test_system": "CO State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://co.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in Colorado Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  },
+  "Connecticut": {
+    "state_info": {
+      "name": "Connecticut",
+      "abbrev": "CT",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "Connecticut Teaching Foundations",
+        "test_code": null,
+        "test_system": "CT State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://ct.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in Connecticut Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  },
+  "Delaware": {
+    "state_info": {
+      "name": "Delaware",
+      "abbrev": "DE",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "Delaware Teaching Foundations",
+        "test_code": null,
+        "test_system": "DE State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://de.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in Delaware Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  },
+  "Florida": {
+    "state_info": {
+      "name": "Florida",
+      "abbrev": "FL",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "Florida Teaching Foundations",
+        "test_code": null,
+        "test_system": "FL State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://fl.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in Florida Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  },
+  "Georgia": {
+    "state_info": {
+      "name": "Georgia",
+      "abbrev": "GA",
+      "last_refresh": null
+    },
+    "tests": [
+      {
+        "test_name": "Georgia Teaching Foundations",
+        "test_code": null,
+        "test_system": "GA State Exam",
+        "subject_area": "General Education",
+        "grade_band": "All",
+        "provider": "State DOE",
+        "official_source_url": "https://ga.gov/education/teacher-certification",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate content knowledge in Georgia Teaching Foundations",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply pedagogical principles and instructional strategies",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Assess and evaluate student learning and progress",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Create inclusive and equitable learning environments",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Integrate technology and resources to enhance learning",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Collaborate with colleagues, families, and communities",
+            "is_inferred": true,
+            "confidence": 0.6,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Elementary Education: Multiple Subjects",
+        "test_code": "5001",
+        "test_system": "Praxis",
+        "subject_area": "Elementary Education",
+        "grade_band": "K-6",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5001",
+        "objectives_count": 9,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate knowledge of child development and learning theory",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply effective instructional strategies for diverse learners",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 2,
+            "text": "Integrate literacy instruction across content areas",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use formative and summative assessment to guide instruction",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Create inclusive and culturally responsive classroom environments",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 5,
+            "text": "Understand and teach mathematics concepts and problem-solving",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Implement science inquiry and investigation methods",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Teach social studies content and citizenship concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 8,
+            "text": "Develop students' critical thinking and communication skills",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      },
+      {
+        "test_name": "Mathematics: Content Knowledge",
+        "test_code": "5161",
+        "test_system": "Praxis",
+        "subject_area": "Mathematics",
+        "grade_band": "7-12",
+        "provider": "ETS",
+        "official_source_url": "https://www.ets.org/praxis/prepare/materials/5161",
+        "objectives_count": 6,
+        "objectives": [
+          {
+            "index": 0,
+            "text": "Demonstrate deep understanding of mathematical concepts and procedures",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 1,
+            "text": "Apply mathematical reasoning and problem-solving strategies",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 3,
+            "text": "Use technology to enhance mathematical learning",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 4,
+            "text": "Assess student understanding of mathematical concepts",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 6,
+            "text": "Teach number sense, operations, and algebraic thinking",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          },
+          {
+            "index": 7,
+            "text": "Develop geometric and spatial reasoning in students",
+            "is_inferred": true,
+            "confidence": 0.75,
+            "validation_status": "inferred"
+          }
+        ]
+      }
+    ]
+  }
+}

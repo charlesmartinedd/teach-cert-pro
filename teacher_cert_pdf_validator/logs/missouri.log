@@ -1,0 +1,37 @@
+2025-10-16 10:54:02 - state_missouri - INFO - ============================================================
+2025-10-16 10:54:02 - state_missouri - INFO - Starting processing for Missouri
+2025-10-16 10:54:02 - state_missouri - INFO - ============================================================
+2025-10-16 10:54:02 - state_missouri - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:54:02 - state_missouri - INFO - Query 1/15: Missouri teacher certification test site:gov filetype:pdf
+2025-10-16 10:54:03 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:04 - state_missouri - INFO - Query 2/15: Missouri teaching license exam site:gov filetype:pdf
+2025-10-16 10:54:05 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:06 - state_missouri - INFO - Query 3/15: Missouri educator certification site:.gov filetype:pdf
+2025-10-16 10:54:07 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:08 - state_missouri - INFO - Query 4/15: Missouri teacher certification study guide filetype:pdf
+2025-10-16 10:54:09 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:10 - state_missouri - INFO - Query 5/15: Missouri teaching exam handbook filetype:pdf
+2025-10-16 10:54:11 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:12 - state_missouri - INFO - Query 6/15: Missouri educator test preparation guide filetype:pdf
+2025-10-16 10:54:13 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:14 - state_missouri - INFO - Query 7/15: Missouri department of education teacher certification filetype:pdf
+2025-10-16 10:54:15 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:16 - state_missouri - INFO - Query 8/15: Missouri state teacher exam requirements filetype:pdf
+2025-10-16 10:54:17 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:18 - state_missouri - INFO - Query 9/15: Missouri teaching license application guide filetype:pdf
+2025-10-16 10:54:19 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:20 - state_missouri - INFO - Query 10/15: Missouri teacher certification practice test pdf
+2025-10-16 10:54:21 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:22 - state_missouri - INFO - Query 11/15: Missouri teaching credential exam guide pdf
+2025-10-16 10:54:22 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:23 - state_missouri - INFO - Query 12/15: Missouri educator licensure test pdf
+2025-10-16 10:54:24 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:25 - state_missouri - INFO - Query 13/15: Missouri teacher praxis exam pdf
+2025-10-16 10:54:26 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:27 - state_missouri - INFO - Query 14/15: Missouri teaching assessment guide pdf
+2025-10-16 10:54:28 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:29 - state_missouri - INFO - Query 15/15: Missouri educator qualification test pdf
+2025-10-16 10:54:30 - state_missouri - INFO -   → Found 0 results
+2025-10-16 10:54:31 - state_missouri - INFO - Total unique URLs collected: 0
+2025-10-16 10:54:31 - state_missouri - WARNING - No URLs found in search results
+2025-10-16 10:54:31 - state_missouri - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

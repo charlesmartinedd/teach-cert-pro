@@ -1,0 +1,13 @@
+2025-10-16 11:09:11,512 - INFO - ============================================================
+2025-10-16 11:09:11,512 - INFO - Processing Arizona (AZ)
+2025-10-16 11:09:11,513 - INFO - ============================================================
+2025-10-16 11:09:11,585 - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:11,619 - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:11,816 - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:11,964 - INFO - Created test: Arizona Teaching Foundations (AZ State Exam)
+2025-10-16 11:09:12,127 - INFO - 
+Completed Arizona:
+2025-10-16 11:09:12,127 - INFO -   Tests: 3
+2025-10-16 11:09:12,127 - INFO -   Objectives: 21
+2025-10-16 11:09:12,128 - INFO -   Verified: 0
+2025-10-16 11:09:12,128 - INFO -   Inferred: 21

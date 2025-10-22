@@ -1,0 +1,37 @@
+2025-10-16 10:47:18 - state_hawaii - INFO - ============================================================
+2025-10-16 10:47:18 - state_hawaii - INFO - Starting processing for Hawaii
+2025-10-16 10:47:18 - state_hawaii - INFO - ============================================================
+2025-10-16 10:47:18 - state_hawaii - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:47:18 - state_hawaii - INFO - Query 1/15: Hawaii teacher certification test site:gov filetype:pdf
+2025-10-16 10:47:19 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:20 - state_hawaii - INFO - Query 2/15: Hawaii teaching license exam site:gov filetype:pdf
+2025-10-16 10:47:21 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:22 - state_hawaii - INFO - Query 3/15: Hawaii educator certification site:.gov filetype:pdf
+2025-10-16 10:47:22 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:23 - state_hawaii - INFO - Query 4/15: Hawaii teacher certification study guide filetype:pdf
+2025-10-16 10:47:24 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:25 - state_hawaii - INFO - Query 5/15: Hawaii teaching exam handbook filetype:pdf
+2025-10-16 10:47:26 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:27 - state_hawaii - INFO - Query 6/15: Hawaii educator test preparation guide filetype:pdf
+2025-10-16 10:47:28 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:29 - state_hawaii - INFO - Query 7/15: Hawaii department of education teacher certification filetype:pdf
+2025-10-16 10:47:30 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:31 - state_hawaii - INFO - Query 8/15: Hawaii state teacher exam requirements filetype:pdf
+2025-10-16 10:47:32 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:33 - state_hawaii - INFO - Query 9/15: Hawaii teaching license application guide filetype:pdf
+2025-10-16 10:47:34 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:35 - state_hawaii - INFO - Query 10/15: Hawaii teacher certification practice test pdf
+2025-10-16 10:47:36 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:37 - state_hawaii - INFO - Query 11/15: Hawaii teaching credential exam guide pdf
+2025-10-16 10:47:38 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:39 - state_hawaii - INFO - Query 12/15: Hawaii educator licensure test pdf
+2025-10-16 10:47:40 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:41 - state_hawaii - INFO - Query 13/15: Hawaii teacher praxis exam pdf
+2025-10-16 10:47:42 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:43 - state_hawaii - INFO - Query 14/15: Hawaii teaching assessment guide pdf
+2025-10-16 10:47:44 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:45 - state_hawaii - INFO - Query 15/15: Hawaii educator qualification test pdf
+2025-10-16 10:47:45 - state_hawaii - INFO -   → Found 0 results
+2025-10-16 10:47:46 - state_hawaii - INFO - Total unique URLs collected: 0
+2025-10-16 10:47:46 - state_hawaii - WARNING - No URLs found in search results
+2025-10-16 10:47:46 - state_hawaii - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

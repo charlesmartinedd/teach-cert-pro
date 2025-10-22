@@ -1,0 +1,448 @@
+{
+  "moduleId": "module-1",
+  "number": 1,
+  "title": "Reading, Language & Literature",
+  "description": "Master reading comprehension strategies, language development, and literature analysis for elementary education. This module covers phonemic awareness, phonics, vocabulary, fluency, and comprehension strategies essential for teaching reading.",
+  "duration": "25 hours",
+  "lessons": [
+    {
+      "id": "lesson-1-1",
+      "number": 1,
+      "title": "Phonemic Awareness and Phonological Processing",
+      "duration": "3 hours",
+      "description": "Understanding the foundational skills of reading including phonemic awareness, phonemes, and sound manipulation.",
+      "content": {
+        "introduction": "Phonemic awareness is the ability to hear, identify, and manipulate individual sounds (phonemes) in spoken words. It's one of the best predictors of reading success and forms the foundation for phonics instruction.",
+        "sections": [
+          {
+            "heading": "What is Phonemic Awareness?",
+            "content": "Phonemic awareness is an auditory skill that doesn't require print. It involves recognizing that spoken words are made up of individual sounds (phonemes) and being able to manipulate these sounds. For example, the word 'cat' has three phonemes: /k/ /æ/ /t/.\n\nKey phonemic awareness skills include:\n• Phoneme isolation: Identifying individual sounds in words\n• Phoneme blending: Combining sounds to form words\n• Phoneme segmentation: Breaking words into individual sounds\n• Phoneme deletion: Removing sounds from words\n• Phoneme substitution: Replacing sounds in words",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          },
+          {
+            "heading": "Developmental Progression",
+            "content": "Phonemic awareness develops in a predictable sequence:\n\n1. **Awareness of rhyme** (ages 3-4): Children recognize words that rhyme\n2. **Awareness of syllables** (ages 4-5): Breaking words into syllable chunks\n3. **Onset and rime** (ages 4-6): Dividing syllables into onset (initial sound) and rime (remaining sounds)\n4. **Individual phonemes** (ages 5-7): Manipulating individual sounds within words\n\nTeachers must understand this progression to provide appropriate instruction for students at different developmental stages.",
+            "image": "https://images.unsplash.com/photo-1472289065668-ce650ac443d2?w=800&q=80"
+          },
+          {
+            "heading": "Instructional Strategies",
+            "content": "Effective phonemic awareness instruction should be:\n\n**Explicit and Systematic**: Directly teach each skill with clear explanations and modeling\n\n**Multisensory**: Engage multiple senses (hearing, seeing, touching) during instruction\n\n**Playful and Engaging**: Use games, songs, and rhymes to make learning enjoyable\n\n**Brief and Focused**: Sessions should be 15-20 minutes for maximum effectiveness\n\n**Differentiated**: Adjust instruction based on student needs and progress\n\nExample activities:\n• Sound boxes (Elkonin boxes) for segmentation\n• Picture sorts for initial sound identification\n• Rhyming games and poems\n• Sound substitution activities",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          }
+        ],
+        "keyTakeaways": [
+          "Phonemic awareness is auditory and doesn't require print",
+          "It develops in a predictable sequence from awareness of larger to smaller sound units",
+          "Explicit, systematic instruction is most effective",
+          "Phonemic awareness is strongly predictive of reading success",
+          "Instruction should be playful, brief, and multisensory"
+        ]
+      },
+      "activity": {
+        "title": "Phoneme Segmentation Practice",
+        "instructions": "Practice segmenting words into individual phonemes. For each word below, identify how many phonemes (individual sounds) it contains and write them out using slashes.\n\nExample: 'ship' = 3 phonemes (/sh/ /i/ /p/)\n\nRemember: Focus on sounds, not letters! 'ship' has 4 letters but only 3 sounds.",
+        "questions": [
+          {
+            "word": "cat",
+            "answer": "3 phonemes: /k/ /æ/ /t/"
+          },
+          {
+            "word": "string",
+            "answer": "5 phonemes: /s/ /t/ /r/ /i/ /ng/"
+          },
+          {
+            "word": "thought",
+            "answer": "3 phonemes: /th/ /aw/ /t/"
+          },
+          {
+            "word": "box",
+            "answer": "4 phonemes: /b/ /o/ /k/ /s/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lesson-1-2",
+      "number": 2,
+      "title": "Phonics and Word Recognition",
+      "duration": "3 hours",
+      "description": "Understanding systematic phonics instruction, decoding strategies, and word recognition patterns.",
+      "content": {
+        "introduction": "Phonics instruction teaches the relationship between letters (graphemes) and sounds (phonemes). Systematic phonics instruction is essential for helping students become proficient readers.",
+        "sections": [
+          {
+            "heading": "Types of Phonics Approaches",
+            "content": "**Synthetic Phonics**: Teaching individual letter-sound relationships and blending them to read words. Students learn to convert letters into sounds and blend them together.\n\nExample: /c/ + /a/ + /t/ = cat\n\n**Analytic Phonics**: Teaching students to analyze letter-sound relationships in previously learned words. Students identify patterns without explicitly blending sounds.\n\nExample: If you know 'cat', you can read 'hat' by recognizing the pattern.\n\n**Analogy-Based Phonics**: Teaching students to use parts of known words to identify unfamiliar words.\n\nExample: If you know 'light', you can read 'night', 'fight', 'might'\n\n**Embedded Phonics**: Teaching letter-sound relationships during the reading of connected text.\n\nResearch strongly supports systematic, explicit phonics instruction over embedded or incidental approaches.",
+            "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+          },
+          {
+            "heading": "Sequence of Phonics Instruction",
+            "content": "Effective phonics instruction follows a logical scope and sequence:\n\n**Early Skills** (Kindergarten - Grade 1):\n• Single consonants and short vowels\n• CVC (consonant-vowel-consonant) words\n• Simple consonant blends (bl, st, tr)\n• Consonant digraphs (sh, ch, th, wh)\n\n**Intermediate Skills** (Grade 1 - Grade 2):\n• Long vowel patterns (CVCe, vowel teams)\n• R-controlled vowels (ar, er, ir, or, ur)\n• Complex consonant blends and digraphs\n• Common word families and rimes\n\n**Advanced Skills** (Grade 2 - Grade 3):\n• Multi-syllable words\n• Prefixes and suffixes\n• Advanced vowel patterns (diphthongs, variant vowels)\n• Morphological patterns",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          },
+          {
+            "heading": "Decoding Strategies",
+            "content": "Teaching students multiple strategies for decoding unfamiliar words:\n\n**1. Sound It Out**: Use letter-sound knowledge to decode phonetically regular words\n\n**2. Look for Chunks**: Identify familiar patterns, word families, or morphemes\n\n**3. Context Clues**: Use surrounding words and pictures to make educated guesses\n\n**4. Structural Analysis**: Break words into meaningful parts (prefixes, roots, suffixes)\n\n**5. Sight Word Recognition**: Automatically recognize high-frequency words\n\nEffective readers flexibly use multiple strategies and self-monitor their reading for meaning.",
+            "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=800&q=80"
+          }
+        ],
+        "keyTakeaways": [
+          "Systematic, explicit phonics instruction is most effective",
+          "Phonics instruction should follow a logical sequence",
+          "Students need multiple decoding strategies",
+          "Phonics is a means to an end (comprehension), not the end itself",
+          "Instruction must be differentiated based on student needs"
+        ]
+      },
+      "activity": {
+        "title": "Phonics Pattern Analysis",
+        "instructions": "Identify the phonics pattern in each word and explain how you would teach a student to decode it.",
+        "questions": [
+          {
+            "word": "make",
+            "pattern": "CVCe (long vowel with silent e)",
+            "teaching": "Teach the 'magic e' rule: when e comes at the end, it makes the vowel say its name"
+          },
+          {
+            "word": "train",
+            "pattern": "Vowel team (ai)",
+            "teaching": "Teach the vowel team pattern where two vowels work together to make one sound"
+          },
+          {
+            "word": "jumping",
+            "pattern": "Base word + suffix (-ing)",
+            "teaching": "Identify base word 'jump', then add the suffix, teaching morphological awareness"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lesson-1-3",
+      "number": 3,
+      "title": "Vocabulary Development and Word Learning",
+      "duration": "3 hours",
+      "description": "Strategies for building student vocabulary through direct instruction, context, and independent reading.",
+      "content": {
+        "introduction": "Vocabulary knowledge is critical for reading comprehension and academic success. Students need both breadth (number of words known) and depth (how well words are known) of vocabulary.",
+        "sections": [
+          {
+            "heading": "Tiers of Vocabulary",
+            "content": "Beck, McKeown, and Kucan (2002) identified three tiers of vocabulary that help teachers prioritize instruction:\n\n**Tier 1: Basic Vocabulary**\n• Common everyday words (house, run, happy)\n• Usually learned through oral language\n• Rarely require direct instruction\n• Examples: mom, cat, red, big\n\n**Tier 2: High-Frequency Academic Words**\n• Words that appear across content areas\n• Critical for academic success\n• Should be prioritized for instruction\n• Examples: analyze, compare, summarize, evidence\n\n**Tier 3: Domain-Specific Vocabulary**\n• Content-specific technical terms\n• Important for understanding specific topics\n• Best taught within context of content instruction\n• Examples: photosynthesis, metaphor, democracy\n\nEffective vocabulary instruction focuses primarily on Tier 2 words while teaching Tier 3 words within content areas.",
+            "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+          },
+          {
+            "heading": "Methods of Vocabulary Instruction",
+            "content": "**Direct Instruction**:\n• Pre-teach key vocabulary before reading\n• Provide student-friendly definitions\n• Use words in multiple contexts\n• Encourage active processing and use\n\n**Contextual Learning**:\n• Teach students to use context clues\n• Types: definition, synonym, antonym, example, inference\n• Practice with authentic texts\n• Develop metacognitive awareness\n\n**Word Learning Strategies**:\n• Morphological analysis (prefixes, roots, suffixes)\n• Cognate awareness (Spanish-English connections)\n• Dictionary and reference skills\n• Semantic mapping and word webs\n\n**Independent Reading**:\n• Wide reading exposes students to more words\n• Volume matters: read more, learn more words\n• Choose texts at appropriate levels\n• Encourage reading across genres and topics",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          },
+          {
+            "heading": "Deep Word Knowledge",
+            "content": "Knowing a word deeply means understanding:\n\n**1. Definition**: What the word means\n\n**2. Context**: When and where to use it\n\n**3. Connections**: How it relates to other words\n\n**4. Morphology**: Word parts and derivations\n\n**5. Nuances**: Connotations and precise usage\n\n**6. Collocations**: Words that commonly go together\n\nResearch shows students need 10-12 meaningful exposures to a word to develop deep understanding. Instruction should provide multiple, varied encounters with target vocabulary.",
+            "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+          }
+        ],
+        "keyTakeaways": [
+          "Focus on Tier 2 high-frequency academic vocabulary",
+          "Students need multiple meaningful exposures to words",
+          "Teach both direct instruction and word-learning strategies",
+          "Wide independent reading builds vocabulary",
+          "Deep word knowledge includes multiple dimensions of understanding"
+        ]
+      },
+      "activity": {
+        "title": "Vocabulary Tier Classification",
+        "instructions": "Classify each word into the appropriate tier and explain your reasoning.",
+        "questions": [
+          {
+            "word": "photosynthesis",
+            "tier": "Tier 3 (Domain-specific)",
+            "reasoning": "This is a technical science term specific to biology"
+          },
+          {
+            "word": "analyze",
+            "tier": "Tier 2 (High-frequency academic)",
+            "reasoning": "Used across content areas and critical for academic success"
+          },
+          {
+            "word": "table",
+            "tier": "Tier 1 (Basic vocabulary)",
+            "reasoning": "Common everyday word learned through oral language"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lesson-1-4",
+      "number": 4,
+      "title": "Reading Fluency and Expression",
+      "duration": "3 hours",
+      "description": "Developing automatic word recognition, prosody, and reading rate for comprehension.",
+      "content": {
+        "introduction": "Reading fluency is the ability to read text accurately, quickly, and with appropriate expression. Fluent readers can focus their cognitive resources on comprehension rather than decoding.",
+        "sections": [
+          {
+            "heading": "Components of Fluency",
+            "content": "**Accuracy**: Reading words correctly\n• Requires strong phonics and word recognition skills\n• Assessed by calculating percentage of words read correctly\n• Goal: 95%+ accuracy at instructional level\n\n**Rate (Speed)**: Reading at an appropriate pace\n• Measured in words correct per minute (WCPM)\n• Grade-level norms exist for monitoring progress\n• Too slow: comprehension suffers from working memory overload\n• Too fast: comprehension suffers from lack of processing\n\n**Prosody (Expression)**: Reading with appropriate phrasing, intonation, and emphasis\n• Includes attention to punctuation\n• Reflects understanding of text meaning\n• Makes reading sound like natural speech\n• Most sophisticated component of fluency\n\nAll three components must work together for effective reading.",
+            "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+          },
+          {
+            "heading": "Fluency Instructional Methods",
+            "content": "**Repeated Reading**:\n• Students read the same passage multiple times\n• Reading rate and accuracy improve with practice\n• Can be done independently, with partners, or with teacher\n• Most effective fluency intervention\n\n**Choral Reading**:\n• Whole class or group reads text together\n• Provides support for struggling readers\n• Builds confidence and expression\n• Good for poetry and rhythmic texts\n\n**Partner Reading**:\n• Students take turns reading aloud to each other\n• Provides immediate feedback and support\n• More practice opportunities than solo reading\n• Can use same-ability or cross-ability pairs\n\n**Reader's Theater**:\n• Students perform scripts without memorization\n• Highly motivating and engaging\n• Natural context for repeated reading\n• Emphasizes prosody and expression",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          },
+          {
+            "heading": "Fluency Assessment",
+            "content": "**Oral Reading Fluency (ORF)**:\n• One-minute timed reading passages\n• Count words read correctly per minute (WCPM)\n• Compare to grade-level benchmarks\n• Conduct 3 times per year for universal screening\n\n**Prosody Rubrics**:\n• Rate expression on 4-point scale\n• Consider phrasing, smoothness, and pace\n• Examples: NAEP Oral Reading Fluency Scale\n\n**Fluency Development Norms**:\n• Grade 1: 60 WCPM by end of year\n• Grade 2: 90 WCPM by end of year\n• Grade 3: 110 WCPM by end of year\n• Grade 4: 125 WCPM by end of year\n• Grade 5: 140 WCPM by end of year\n\nRegular monitoring helps identify students needing intervention.",
+            "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80"
+          }
+        ],
+        "keyTakeaways": [
+          "Fluency includes accuracy, rate, and prosody",
+          "Repeated reading is the most effective fluency intervention",
+          "Fluency is a bridge between decoding and comprehension",
+          "Regular assessment helps identify students needing support",
+          "Fluency instruction should include expression, not just speed"
+        ]
+      },
+      "activity": {
+        "title": "Fluency Intervention Planning",
+        "instructions": "Given a student's fluency assessment data, design an appropriate intervention plan.",
+        "scenario": "Maria is a 3rd grader reading at 75 WCPM with 92% accuracy and poor prosody (score: 2/4). The grade-level benchmark is 110 WCPM with 95%+ accuracy.",
+        "response": "Maria needs intervention in all three fluency areas:\n\n1. Accuracy: Provide additional phonics review and word study\n2. Rate: Implement repeated reading practice 3-4 times per week\n3. Prosody: Use reader's theater and modeled reading to improve expression\n\nMonitor progress biweekly using ORF passages."
+      }
+    },
+    {
+      "id": "lesson-1-5",
+      "number": 5,
+      "title": "Reading Comprehension Strategies",
+      "duration": "3 hours",
+      "description": "Teaching students to understand, analyze, and think critically about texts.",
+      "content": {
+        "introduction": "Reading comprehension is the ultimate goal of reading instruction. Skilled readers actively engage with text using multiple strategies to construct meaning.",
+        "sections": [
+          {
+            "heading": "The 7 Key Comprehension Strategies",
+            "content": "Research identifies seven evidence-based strategies that proficient readers use:\n\n**1. Activating Prior Knowledge**: Connecting new information to what's already known\n\n**2. Predicting**: Making educated guesses about what will happen next\n\n**3. Questioning**: Asking questions before, during, and after reading\n\n**4. Visualizing**: Creating mental images of text content\n\n**5. Inferring**: Reading between the lines to understand implied meaning\n\n**6. Summarizing**: Identifying main ideas and key details\n\n**7. Monitoring and Clarifying**: Recognizing when understanding breaks down and fixing it\n\nEffective instruction explicitly teaches these strategies and provides guided practice.",
+            "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+          },
+          {
+            "heading": "Levels of Comprehension",
+            "content": "**Literal Comprehension**: Understanding explicitly stated information\n• Who, what, when, where questions\n• Identifying main ideas and details\n• Following sequence of events\n• Easiest level of understanding\n\n**Inferential Comprehension**: Understanding implied meaning\n• Reading between the lines\n• Making predictions and drawing conclusions\n• Understanding cause-effect relationships\n• Identifying themes and lessons\n\n**Evaluative/Critical Comprehension**: Analyzing and judging text\n• Evaluating author's purpose and perspective\n• Distinguishing fact from opinion\n• Analyzing author's craft and technique\n• Comparing multiple texts\n• Highest level of thinking\n\nInstruction should address all three levels, not just literal comprehension.",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          },
+          {
+            "heading": "Gradual Release of Responsibility",
+            "content": "The most effective framework for teaching comprehension strategies:\n\n**I Do (Modeling)**: Teacher demonstrates the strategy with think-alouds\n• Make thinking visible\n• Show when and why to use strategy\n• Use authentic texts\n\n**We Do (Guided Practice)**: Teacher and students practice together\n• Provide scaffolding and support\n• Ask guiding questions\n• Gradually reduce support\n\n**You Do Together (Collaborative Practice)**: Students practice in pairs or groups\n• Peer support and discussion\n• Teacher monitors and assists\n• Opportunity for feedback\n\n**You Do Alone (Independent Practice)**: Students apply strategy independently\n• Full ownership of strategy\n• Assessment of understanding\n• Continued practice over time\n\nThis framework ensures students receive appropriate support as they develop independence.",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          }
+        ],
+        "keyTakeaways": [
+          "Comprehension is the ultimate goal of reading instruction",
+          "Explicitly teach the 7 key comprehension strategies",
+          "Address literal, inferential, and evaluative comprehension",
+          "Use gradual release of responsibility framework",
+          "Provide extensive practice with diverse texts"
+        ]
+      },
+      "activity": {
+        "title": "Comprehension Strategy Application",
+        "instructions": "For the given text scenario, identify which comprehension strategy would be most helpful and explain how a teacher would model it.",
+        "scenario": "Students are reading a story where the character's actions suggest she's nervous, but the text never explicitly states this.",
+        "response": "Strategy: Inferring\n\nTeacher modeling: 'I notice the character is tapping her foot, biting her lip, and can't sit still. The author doesn't tell us she's nervous, but these clues help me infer her feelings. When I combine what the text says with what I already know about nervous behavior, I can conclude she's feeling anxious.'"
+      }
+    },
+    {
+      "id": "lesson-1-6",
+      "number": 6,
+      "title": "Literary Analysis and Text Structures",
+      "duration": "3 hours",
+      "description": "Understanding literary elements, genres, and how texts are organized.",
+      "content": {
+        "introduction": "Literary analysis involves examining how authors craft texts using specific elements and structures. Understanding these elements helps students comprehend and appreciate literature more deeply.",
+        "sections": [
+          {
+            "heading": "Elements of Fiction",
+            "content": "**Plot**: The sequence of events in a story\n• Exposition: Introduction of setting and characters\n• Rising Action: Building conflict and tension\n• Climax: The turning point or most intense moment\n• Falling Action: Events after the climax\n• Resolution: How the conflict is resolved\n\n**Character**: The people or animals in the story\n• Protagonist: Main character\n• Antagonist: Character opposing the protagonist\n• Dynamic: Characters who change\n• Static: Characters who stay the same\n• Character traits and motivations\n\n**Setting**: Time and place of the story\n• Physical location\n• Time period\n• Social context\n• Can influence plot and character\n\n**Theme**: The central message or lesson\n• Often universal (friendship, courage, growth)\n• May be stated or implied\n• Supported by evidence throughout text\n\n**Point of View**: Who is telling the story\n• First person (I, we)\n• Third person limited (he, she, focusing on one character)\n• Third person omniscient (all-knowing narrator)\n• Second person (you) - rare in fiction",
+            "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+          },
+          {
+            "heading": "Literary Devices and Figurative Language",
+            "content": "**Figurative Language**:\n• **Simile**: Comparison using 'like' or 'as' (Her smile was like sunshine)\n• **Metaphor**: Direct comparison (Her smile was sunshine)\n• **Personification**: Giving human qualities to non-human things (The wind whispered)\n• **Hyperbole**: Extreme exaggeration (I'm so hungry I could eat a horse)\n• **Onomatopoeia**: Words that sound like what they describe (buzz, crash, sizzle)\n• **Alliteration**: Repeated initial consonant sounds (Peter Piper picked)\n• **Idiom**: Expression with figurative meaning (It's raining cats and dogs)\n\n**Other Literary Devices**:\n• **Foreshadowing**: Hints about future events\n• **Flashback**: Scene from the past\n• **Symbolism**: Objects representing larger ideas\n• **Irony**: Contrast between expectation and reality\n• **Imagery**: Vivid descriptive language appealing to senses",
+            "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=800&q=80"
+          },
+          {
+            "heading": "Text Structures in Nonfiction",
+            "content": "**Common Organizational Patterns**:\n\n**Description**: Provides details about a topic\n• Signal words: for example, characteristics, such as\n\n**Sequence/Chronological**: Events in time order\n• Signal words: first, next, then, finally, before, after\n\n**Compare/Contrast**: Shows similarities and differences\n• Signal words: similarly, however, on the other hand, both, unlike\n\n**Cause/Effect**: Shows relationships between events\n• Signal words: because, as a result, consequently, therefore, due to\n\n**Problem/Solution**: Presents an issue and how to solve it\n• Signal words: problem, solution, challenge, resolve, answer\n\nRecognizing text structure helps students:\n• Predict what might come next\n• Organize information mentally\n• Take better notes\n• Improve comprehension and retention",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          }
+        ],
+        "keyTakeaways": [
+          "Literary elements work together to create meaning",
+          "Figurative language adds depth and beauty to writing",
+          "Nonfiction texts follow predictable organizational patterns",
+          "Understanding structure aids comprehension",
+          "Analysis skills transfer across texts and genres"
+        ]
+      },
+      "activity": {
+        "title": "Literary Element Identification",
+        "instructions": "Read the passage and identify the literary elements present.",
+        "passage": "Sarah's heart pounded like a drum as she climbed the ancient oak tree. The wind whispered secrets through the leaves, and storm clouds gathered on the horizon. If she could just reach the top before the rain came, she would finally prove she was brave enough to join the adventure club.",
+        "answer": "Simile: 'heart pounded like a drum'\nPersonification: 'wind whispered secrets'\nForeshadowing: storm clouds suggest coming conflict\nConflict: Sarah vs. her fear, external conflict with time/weather\nSetting: outdoors, near an ancient oak tree, approaching storm"
+      }
+    },
+    {
+      "id": "lesson-1-7",
+      "number": 7,
+      "title": "Writing Process and Composition",
+      "duration": "3 hours",
+      "description": "Teaching the writing process and helping students develop as writers across genres.",
+      "content": {
+        "introduction": "Writing and reading are reciprocal processes. Teaching writing helps students become better readers, and reading helps them become better writers. The writing process provides a framework for developing ideas from brainstorming to publication.",
+        "sections": [
+          {
+            "heading": "The Five Stages of the Writing Process",
+            "content": "**1. Prewriting**: Generating and organizing ideas\n• Brainstorming\n• Graphic organizers (webs, charts, outlines)\n• Research and note-taking\n• Discussing ideas with others\n• Most important stage - determines content quality\n\n**2. Drafting**: Getting ideas down on paper\n• Focus on content, not perfection\n• Don't worry about mistakes\n• Get thoughts flowing\n• Can be messy and revised later\n\n**3. Revising**: Improving content and organization\n• Add, delete, rearrange, substitute\n• Focus on ideas, word choice, sentence fluency\n• Get feedback from peers or teacher\n• May require multiple revision cycles\n\n**4. Editing**: Correcting mechanics\n• Fix spelling, grammar, punctuation, capitalization\n• Use checklists or rubrics\n• Peer editing partnerships\n• Teacher conferences\n\n**5. Publishing**: Sharing final work\n• Type or write in final form\n• Add illustrations or formatting\n• Share with authentic audience\n• Celebrate achievement\n\nNot all writing needs to go through all five stages - daily writing practice can stop after drafting.",
+            "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80"
+          },
+          {
+            "heading": "Writing Genres and Modes",
+            "content": "**Narrative Writing**: Tells a story\n• Fiction or personal narrative\n• Elements: plot, characters, setting, theme\n• Includes dialogue and descriptive details\n• Chronological or non-chronological organization\n\n**Informative/Explanatory Writing**: Informs or explains\n• Reports, how-to, explanations\n• Clear thesis or main idea\n• Supporting facts and details\n• Logical organization\n• Examples: research reports, science explanations\n\n**Opinion/Argumentative Writing**: Persuades or argues\n• States a clear position or opinion\n• Provides reasons and evidence\n• Addresses counterarguments (advanced)\n• Includes a call to action\n• Examples: persuasive letters, reviews, essays\n\n**Descriptive Writing**: Creates vivid images\n• Appeals to five senses\n• Uses precise adjectives and adverbs\n• Employs figurative language\n• Often embedded in other genres\n\nElementary students should experience all genres, with instruction differentiated by grade level.",
+            "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+          },
+          {
+            "heading": "Teaching Writing Effectively",
+            "content": "**Writer's Workshop Model**:\n• Mini-lesson (10-15 min): Explicit instruction on one skill\n• Independent writing (30-40 min): Students write while teacher confers\n• Sharing time (10 min): Students share and receive feedback\n• Consistent daily schedule\n• Students work at own pace on own projects\n\n**Six Traits of Writing** (assessment framework):\n1. **Ideas**: Content and details\n2. **Organization**: Structure and flow\n3. **Voice**: Author's personality and style\n4. **Word Choice**: Precise, interesting vocabulary\n5. **Sentence Fluency**: Rhythm and flow of sentences\n6. **Conventions**: Mechanics (spelling, grammar, punctuation)\n\n**Effective Practices**:\n• Model writing with think-alouds\n• Provide mentor texts as examples\n• Give choice in topics when possible\n• Focus on process, not just product\n• Provide regular, specific feedback\n• Celebrate student work\n• Write across content areas\n• Use rubrics for assessment and goal-setting",
+            "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&q=80"
+          }
+        ],
+        "keyTakeaways": [
+          "Writing is a process with distinct stages",
+          "Not all writing needs to go through all stages",
+          "Students should experience multiple genres",
+          "Writer's Workshop provides effective structure",
+          "Regular practice and feedback are essential",
+          "Reading and writing are reciprocal processes"
+        ]
+      },
+      "activity": {
+        "title": "Writing Process Application",
+        "instructions": "A 3rd grade student has written a narrative with many good ideas but poor organization (events are out of order, confusing transitions). Which stage of the writing process should the teacher guide the student through next, and what specific strategies should be taught?",
+        "answer": "Stage: Revising (not editing - the issue is content/organization, not mechanics)\n\nStrategies to teach:\n1. Use a story map or timeline to visualize the sequence of events\n2. Number events in correct chronological order\n3. Cut and rearrange paragraphs/sentences\n4. Add transition words (first, next, then, finally)\n5. Reread for clarity and logical flow\n\nThe student should not move to editing until the organization is improved during revision."
+      }
+    },
+    {
+      "id": "lesson-1-8",
+      "number": 8,
+      "title": "Assessment and Differentiation in Reading Instruction",
+      "duration": "4 hours",
+      "description": "Using assessment data to inform instruction and meet diverse student needs.",
+      "content": {
+        "introduction": "Effective reading instruction is responsive to individual student needs. Teachers must regularly assess student progress and differentiate instruction to ensure all students receive appropriate support and challenge.",
+        "sections": [
+          {
+            "heading": "Types of Reading Assessment",
+            "content": "**Screening**: Universal assessment for all students\n• Identifies students at risk\n• Conducted 3 times per year (fall, winter, spring)\n• Examples: DIBELS, AIMSweb, easyCBM\n• Quick (5-10 minutes per student)\n\n**Diagnostic**: In-depth assessment to identify specific needs\n• For students identified as at-risk through screening\n• Determines instructional focus areas\n• Examples: Phonics inventories, running records, comprehension assessments\n• More time-intensive\n\n**Progress Monitoring**: Frequent assessment of intervention students\n• Checks if intervention is working\n• Conducted weekly or biweekly\n• Uses brief measures (1-5 minutes)\n• Allows data-based decision making\n\n**Formative Assessment**: Ongoing, informal checks for understanding\n• Guides daily instruction\n• Examples: observation, questioning, exit tickets, work samples\n• Happens continuously during instruction\n\n**Summative Assessment**: Evaluates learning at end of unit/term\n• District benchmarks, end-of-unit tests\n• Measures mastery of standards\n• Used for grading and reporting",
+            "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80"
+          },
+          {
+            "heading": "Multi-Tiered System of Supports (MTSS)",
+            "content": "**Tier 1 (Universal)**: Core instruction for all students\n• High-quality, evidence-based teaching\n• 80-85% of students successful\n• Whole-class and small-group instruction\n• Differentiation within classroom\n\n**Tier 2 (Targeted)**: Supplemental intervention\n• For students not making progress in Tier 1\n• 10-15% of students\n• Small groups (3-5 students)\n• 20-30 minutes daily, 3-4 times per week\n• Targets specific skill deficits\n• Progress monitored frequently\n\n**Tier 3 (Intensive)**: Intensive intervention\n• For students not responding to Tier 2\n• 5% of students\n• Individual or very small groups (1-3 students)\n• 30-60 minutes daily\n• Most explicit, systematic instruction\n• May involve specialists\n• Frequent progress monitoring (weekly)\n\nMovement between tiers is fluid based on student data.",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          },
+          {
+            "heading": "Differentiation Strategies",
+            "content": "**Differentiate Content**: What students learn\n• Adjust complexity of materials\n• Provide texts at varied reading levels\n• Offer enrichment for advanced learners\n• Use flexible grouping\n\n**Differentiate Process**: How students learn\n• Vary instructional approaches (visual, auditory, kinesthetic)\n• Adjust pacing and level of support\n• Use tiered activities\n• Provide choice in learning activities\n\n**Differentiate Product**: How students demonstrate learning\n• Multiple assessment formats\n• Choice in project types\n• Vary complexity of assignments\n• Alternative ways to show understanding\n\n**Grouping Strategies**:\n• **Whole group**: Community building, introducing concepts\n• **Small group**: Targeted instruction based on needs\n• **Partnerships**: Peer support and practice\n• **Independent**: Application and extension\n\n**Flexible grouping** changes based on skill, interest, or task - students aren't permanently assigned to one level.",
+            "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+          }
+        ],
+        "keyTakeaways": [
+          "Use multiple types of assessment for different purposes",
+          "Data should drive instructional decisions",
+          "MTSS provides framework for differentiated support",
+          "Differentiate content, process, and product",
+          "Use flexible grouping based on student needs",
+          "All students need appropriate challenge and support"
+        ]
+      },
+      "activity": {
+        "title": "Data-Based Instructional Planning",
+        "instructions": "Review the assessment data and develop an instructional plan.",
+        "data": "Class of 24 3rd graders:\n- 18 students (75%) reading at or above grade level\n- 4 students (17%) reading 1 year below (2nd grade level)\n- 2 students (8%) reading 2+ years below (K-1st grade level)\n\nSkills assessment shows the 4 students at 2nd grade level struggle with fluency (rate and prosody), while the 2 students reading at K-1st level have weak phonics skills.",
+        "answer": "Tier 1: All students receive core reading instruction with differentiated small groups\n\nTier 2: \n- 4 students with fluency needs: small group 4x/week, 20 min, repeated reading practice\n- Progress monitor biweekly using ORF probes\n\nTier 3:\n- 2 students with phonics needs: intensive intervention 5x/week, 30 min, systematic phonics program\n- Progress monitor weekly using phonics assessments\n- Consider specialist support if no progress in 6-8 weeks"
+      }
+    }
+  ],
+  "quiz": {
+    "title": "Module 1 Assessment: Reading, Language & Literature",
+    "description": "Test your understanding of reading instruction, language development, and literature analysis.",
+    "passingScore": 80,
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple-choice",
+        "question": "Which of the following is NOT a component of phonemic awareness?",
+        "options": [
+          "A) Identifying individual sounds in spoken words",
+          "B) Blending sounds together to form words",
+          "C) Matching letters to sounds",
+          "D) Segmenting words into individual phonemes"
+        ],
+        "correctAnswer": "C",
+        "explanation": "Phonemic awareness is auditory and doesn't require print. Matching letters to sounds is phonics, not phonemic awareness. Phonemic awareness involves only hearing and manipulating sounds."
+      },
+      {
+        "id": "q2",
+        "type": "multiple-choice",
+        "question": "According to research, which type of phonics instruction is most effective?",
+        "options": [
+          "A) Incidental phonics embedded in reading",
+          "B) Systematic, explicit phonics instruction",
+          "C) Analytic phonics only",
+          "D) Teaching phonics only when students ask questions"
+        ],
+        "correctAnswer": "B",
+        "explanation": "Research strongly supports systematic, explicit phonics instruction. This approach directly teaches letter-sound relationships in a logical sequence, which is more effective than incidental or implicit approaches."
+      },
+      {
+        "id": "q3",
+        "type": "multiple-choice",
+        "question": "Which tier of vocabulary should be prioritized for direct instruction in elementary classrooms?",
+        "options": [
+          "A) Tier 1 - Basic everyday words",
+          "B) Tier 2 - High-frequency academic words",
+          "C) Tier 3 - Domain-specific technical terms",
+          "D) All tiers should receive equal attention"
+        ],
+        "correctAnswer": "B",
+        "explanation": "Tier 2 words are high-frequency academic words that appear across content areas and are critical for academic success. These should be prioritized because they appear often but aren't learned as naturally as Tier 1 words."
+      },
+      {
+        "id": "q4",
+        "type": "multiple-choice",
+        "question": "The three components of reading fluency are:",
+        "options": [
+          "A) Phonics, vocabulary, and comprehension",
+          "B) Accuracy, rate, and prosody",
+          "C) Decoding, encoding, and fluency",
+          "D) Speed, expression, and volume"
+        ],
+        "correctAnswer": "B",
+        "explanation": "Reading fluency consists of three components: accuracy (reading words correctly), rate (reading at an appropriate speed), and prosody (reading with appropriate expression and intonation)."
+      },
+      {
+        "id": "q5",
+        "type": "multiple-choice",
+        "question": "Which comprehension strategy involves making educated guesses about what might happen next in a text?",
+        "options": [
+          "A) Summarizing",
+          "B) Visualizing",
+          "C) Predicting",
+          "D) Questioning"
+        ],
+        "correctAnswer": "C",
+        "explanation": "Predicting is the comprehension strategy where readers make educated guesses about what will happen next based on clues in the text and their prior knowledge. This keeps readers actively engaged with the text."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+2025-10-16 10:46:19 - state_florida - INFO - ============================================================
+2025-10-16 10:46:19 - state_florida - INFO - Starting processing for Florida
+2025-10-16 10:46:19 - state_florida - INFO - ============================================================
+2025-10-16 10:46:19 - state_florida - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:46:19 - state_florida - INFO - Query 1/15: Florida teacher certification test site:gov filetype:pdf
+2025-10-16 10:46:20 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:21 - state_florida - INFO - Query 2/15: Florida teaching license exam site:gov filetype:pdf
+2025-10-16 10:46:22 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:23 - state_florida - INFO - Query 3/15: Florida educator certification site:.gov filetype:pdf
+2025-10-16 10:46:24 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:25 - state_florida - INFO - Query 4/15: Florida teacher certification study guide filetype:pdf
+2025-10-16 10:46:26 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:27 - state_florida - INFO - Query 5/15: Florida teaching exam handbook filetype:pdf
+2025-10-16 10:46:28 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:29 - state_florida - INFO - Query 6/15: Florida educator test preparation guide filetype:pdf
+2025-10-16 10:46:30 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:31 - state_florida - INFO - Query 7/15: Florida department of education teacher certification filetype:pdf
+2025-10-16 10:46:32 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:33 - state_florida - INFO - Query 8/15: Florida state teacher exam requirements filetype:pdf
+2025-10-16 10:46:34 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:35 - state_florida - INFO - Query 9/15: Florida teaching license application guide filetype:pdf
+2025-10-16 10:46:36 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:37 - state_florida - INFO - Query 10/15: Florida teacher certification practice test pdf
+2025-10-16 10:46:38 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:39 - state_florida - INFO - Query 11/15: Florida teaching credential exam guide pdf
+2025-10-16 10:46:40 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:41 - state_florida - INFO - Query 12/15: Florida educator licensure test pdf
+2025-10-16 10:46:42 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:43 - state_florida - INFO - Query 13/15: Florida teacher praxis exam pdf
+2025-10-16 10:46:44 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:45 - state_florida - INFO - Query 14/15: Florida teaching assessment guide pdf
+2025-10-16 10:46:46 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:47 - state_florida - INFO - Query 15/15: Florida educator qualification test pdf
+2025-10-16 10:46:48 - state_florida - INFO -   → Found 0 results
+2025-10-16 10:46:49 - state_florida - INFO - Total unique URLs collected: 0
+2025-10-16 10:46:49 - state_florida - WARNING - No URLs found in search results
+2025-10-16 10:46:49 - state_florida - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

@@ -1,0 +1,37 @@
+2025-10-16 10:51:08 - state_maine - INFO - ============================================================
+2025-10-16 10:51:08 - state_maine - INFO - Starting processing for Maine
+2025-10-16 10:51:08 - state_maine - INFO - ============================================================
+2025-10-16 10:51:08 - state_maine - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:51:08 - state_maine - INFO - Query 1/15: Maine teacher certification test site:gov filetype:pdf
+2025-10-16 10:51:09 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:10 - state_maine - INFO - Query 2/15: Maine teaching license exam site:gov filetype:pdf
+2025-10-16 10:51:11 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:12 - state_maine - INFO - Query 3/15: Maine educator certification site:.gov filetype:pdf
+2025-10-16 10:51:13 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:14 - state_maine - INFO - Query 4/15: Maine teacher certification study guide filetype:pdf
+2025-10-16 10:51:15 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:16 - state_maine - INFO - Query 5/15: Maine teaching exam handbook filetype:pdf
+2025-10-16 10:51:17 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:18 - state_maine - INFO - Query 6/15: Maine educator test preparation guide filetype:pdf
+2025-10-16 10:51:19 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:20 - state_maine - INFO - Query 7/15: Maine department of education teacher certification filetype:pdf
+2025-10-16 10:51:21 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:22 - state_maine - INFO - Query 8/15: Maine state teacher exam requirements filetype:pdf
+2025-10-16 10:51:23 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:24 - state_maine - INFO - Query 9/15: Maine teaching license application guide filetype:pdf
+2025-10-16 10:51:25 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:26 - state_maine - INFO - Query 10/15: Maine teacher certification practice test pdf
+2025-10-16 10:51:27 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:28 - state_maine - INFO - Query 11/15: Maine teaching credential exam guide pdf
+2025-10-16 10:51:29 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:30 - state_maine - INFO - Query 12/15: Maine educator licensure test pdf
+2025-10-16 10:51:30 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:31 - state_maine - INFO - Query 13/15: Maine teacher praxis exam pdf
+2025-10-16 10:51:32 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:33 - state_maine - INFO - Query 14/15: Maine teaching assessment guide pdf
+2025-10-16 10:51:34 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:35 - state_maine - INFO - Query 15/15: Maine educator qualification test pdf
+2025-10-16 10:51:36 - state_maine - INFO -   → Found 0 results
+2025-10-16 10:51:37 - state_maine - INFO - Total unique URLs collected: 0
+2025-10-16 10:51:37 - state_maine - WARNING - No URLs found in search results
+2025-10-16 10:51:37 - state_maine - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

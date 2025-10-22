@@ -1,0 +1,37 @@
+2025-10-16 10:44:52 - state_colorado - INFO - ============================================================
+2025-10-16 10:44:52 - state_colorado - INFO - Starting processing for Colorado
+2025-10-16 10:44:52 - state_colorado - INFO - ============================================================
+2025-10-16 10:44:52 - state_colorado - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:44:52 - state_colorado - INFO - Query 1/15: Colorado teacher certification test site:gov filetype:pdf
+2025-10-16 10:44:53 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:44:54 - state_colorado - INFO - Query 2/15: Colorado teaching license exam site:gov filetype:pdf
+2025-10-16 10:44:55 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:44:56 - state_colorado - INFO - Query 3/15: Colorado educator certification site:.gov filetype:pdf
+2025-10-16 10:44:57 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:44:58 - state_colorado - INFO - Query 4/15: Colorado teacher certification study guide filetype:pdf
+2025-10-16 10:44:59 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:00 - state_colorado - INFO - Query 5/15: Colorado teaching exam handbook filetype:pdf
+2025-10-16 10:45:01 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:02 - state_colorado - INFO - Query 6/15: Colorado educator test preparation guide filetype:pdf
+2025-10-16 10:45:03 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:04 - state_colorado - INFO - Query 7/15: Colorado department of education teacher certification filetype:pdf
+2025-10-16 10:45:05 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:06 - state_colorado - INFO - Query 8/15: Colorado state teacher exam requirements filetype:pdf
+2025-10-16 10:45:07 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:08 - state_colorado - INFO - Query 9/15: Colorado teaching license application guide filetype:pdf
+2025-10-16 10:45:09 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:10 - state_colorado - INFO - Query 10/15: Colorado teacher certification practice test pdf
+2025-10-16 10:45:10 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:11 - state_colorado - INFO - Query 11/15: Colorado teaching credential exam guide pdf
+2025-10-16 10:45:12 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:13 - state_colorado - INFO - Query 12/15: Colorado educator licensure test pdf
+2025-10-16 10:45:14 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:15 - state_colorado - INFO - Query 13/15: Colorado teacher praxis exam pdf
+2025-10-16 10:45:16 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:17 - state_colorado - INFO - Query 14/15: Colorado teaching assessment guide pdf
+2025-10-16 10:45:18 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:19 - state_colorado - INFO - Query 15/15: Colorado educator qualification test pdf
+2025-10-16 10:45:20 - state_colorado - INFO -   → Found 0 results
+2025-10-16 10:45:21 - state_colorado - INFO - Total unique URLs collected: 0
+2025-10-16 10:45:21 - state_colorado - WARNING - No URLs found in search results
+2025-10-16 10:45:21 - state_colorado - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

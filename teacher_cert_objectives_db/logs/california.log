@@ -1,0 +1,13 @@
+2025-10-16 11:09:12,708 - INFO - ============================================================
+2025-10-16 11:09:12,709 - INFO - Processing California (CA)
+2025-10-16 11:09:12,709 - INFO - ============================================================
+2025-10-16 11:09:12,747 - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:12,767 - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:13,000 - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:13,146 - INFO - Created test: California Teaching Foundations (CA State Exam)
+2025-10-16 11:09:13,326 - INFO - 
+Completed California:
+2025-10-16 11:09:13,327 - INFO -   Tests: 3
+2025-10-16 11:09:13,327 - INFO -   Objectives: 21
+2025-10-16 11:09:13,327 - INFO -   Verified: 0
+2025-10-16 11:09:13,327 - INFO -   Inferred: 21

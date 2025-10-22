@@ -1,0 +1,13 @@
+2025-10-16 11:09:15,011 - INFO - ============================================================
+2025-10-16 11:09:15,012 - INFO - Processing Florida (FL)
+2025-10-16 11:09:15,012 - INFO - ============================================================
+2025-10-16 11:09:15,055 - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:15,069 - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:15,271 - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:15,431 - INFO - Created test: Florida Teaching Foundations (FL State Exam)
+2025-10-16 11:09:15,587 - INFO - 
+Completed Florida:
+2025-10-16 11:09:15,587 - INFO -   Tests: 3
+2025-10-16 11:09:15,587 - INFO -   Objectives: 21
+2025-10-16 11:09:15,588 - INFO -   Verified: 0
+2025-10-16 11:09:15,588 - INFO -   Inferred: 21

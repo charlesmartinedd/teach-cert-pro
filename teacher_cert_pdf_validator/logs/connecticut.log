@@ -1,0 +1,37 @@
+2025-10-16 10:45:21 - state_connecticut - INFO - ============================================================
+2025-10-16 10:45:21 - state_connecticut - INFO - Starting processing for Connecticut
+2025-10-16 10:45:21 - state_connecticut - INFO - ============================================================
+2025-10-16 10:45:21 - state_connecticut - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:45:21 - state_connecticut - INFO - Query 1/15: Connecticut teacher certification test site:gov filetype:pdf
+2025-10-16 10:45:22 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:23 - state_connecticut - INFO - Query 2/15: Connecticut teaching license exam site:gov filetype:pdf
+2025-10-16 10:45:24 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:25 - state_connecticut - INFO - Query 3/15: Connecticut educator certification site:.gov filetype:pdf
+2025-10-16 10:45:26 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:27 - state_connecticut - INFO - Query 4/15: Connecticut teacher certification study guide filetype:pdf
+2025-10-16 10:45:28 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:29 - state_connecticut - INFO - Query 5/15: Connecticut teaching exam handbook filetype:pdf
+2025-10-16 10:45:30 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:31 - state_connecticut - INFO - Query 6/15: Connecticut educator test preparation guide filetype:pdf
+2025-10-16 10:45:32 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:33 - state_connecticut - INFO - Query 7/15: Connecticut department of education teacher certification filetype:pdf
+2025-10-16 10:45:34 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:35 - state_connecticut - INFO - Query 8/15: Connecticut state teacher exam requirements filetype:pdf
+2025-10-16 10:45:35 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:36 - state_connecticut - INFO - Query 9/15: Connecticut teaching license application guide filetype:pdf
+2025-10-16 10:45:37 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:38 - state_connecticut - INFO - Query 10/15: Connecticut teacher certification practice test pdf
+2025-10-16 10:45:39 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:40 - state_connecticut - INFO - Query 11/15: Connecticut teaching credential exam guide pdf
+2025-10-16 10:45:41 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:42 - state_connecticut - INFO - Query 12/15: Connecticut educator licensure test pdf
+2025-10-16 10:45:43 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:44 - state_connecticut - INFO - Query 13/15: Connecticut teacher praxis exam pdf
+2025-10-16 10:45:45 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:46 - state_connecticut - INFO - Query 14/15: Connecticut teaching assessment guide pdf
+2025-10-16 10:45:47 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:48 - state_connecticut - INFO - Query 15/15: Connecticut educator qualification test pdf
+2025-10-16 10:45:49 - state_connecticut - INFO -   → Found 0 results
+2025-10-16 10:45:50 - state_connecticut - INFO - Total unique URLs collected: 0
+2025-10-16 10:45:50 - state_connecticut - WARNING - No URLs found in search results
+2025-10-16 10:45:50 - state_connecticut - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

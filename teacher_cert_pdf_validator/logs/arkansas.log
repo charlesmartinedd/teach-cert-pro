@@ -1,0 +1,37 @@
+2025-10-16 10:43:54 - state_arkansas - INFO - ============================================================
+2025-10-16 10:43:54 - state_arkansas - INFO - Starting processing for Arkansas
+2025-10-16 10:43:54 - state_arkansas - INFO - ============================================================
+2025-10-16 10:43:54 - state_arkansas - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:43:54 - state_arkansas - INFO - Query 1/15: Arkansas teacher certification test site:gov filetype:pdf
+2025-10-16 10:43:55 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:43:56 - state_arkansas - INFO - Query 2/15: Arkansas teaching license exam site:gov filetype:pdf
+2025-10-16 10:43:57 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:43:58 - state_arkansas - INFO - Query 3/15: Arkansas educator certification site:.gov filetype:pdf
+2025-10-16 10:43:58 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:43:59 - state_arkansas - INFO - Query 4/15: Arkansas teacher certification study guide filetype:pdf
+2025-10-16 10:44:00 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:01 - state_arkansas - INFO - Query 5/15: Arkansas teaching exam handbook filetype:pdf
+2025-10-16 10:44:02 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:03 - state_arkansas - INFO - Query 6/15: Arkansas educator test preparation guide filetype:pdf
+2025-10-16 10:44:04 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:05 - state_arkansas - INFO - Query 7/15: Arkansas department of education teacher certification filetype:pdf
+2025-10-16 10:44:06 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:07 - state_arkansas - INFO - Query 8/15: Arkansas state teacher exam requirements filetype:pdf
+2025-10-16 10:44:08 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:09 - state_arkansas - INFO - Query 9/15: Arkansas teaching license application guide filetype:pdf
+2025-10-16 10:44:10 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:11 - state_arkansas - INFO - Query 10/15: Arkansas teacher certification practice test pdf
+2025-10-16 10:44:12 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:13 - state_arkansas - INFO - Query 11/15: Arkansas teaching credential exam guide pdf
+2025-10-16 10:44:14 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:15 - state_arkansas - INFO - Query 12/15: Arkansas educator licensure test pdf
+2025-10-16 10:44:16 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:17 - state_arkansas - INFO - Query 13/15: Arkansas teacher praxis exam pdf
+2025-10-16 10:44:18 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:19 - state_arkansas - INFO - Query 14/15: Arkansas teaching assessment guide pdf
+2025-10-16 10:44:20 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:21 - state_arkansas - INFO - Query 15/15: Arkansas educator qualification test pdf
+2025-10-16 10:44:22 - state_arkansas - INFO -   → Found 0 results
+2025-10-16 10:44:23 - state_arkansas - INFO - Total unique URLs collected: 0
+2025-10-16 10:44:23 - state_arkansas - WARNING - No URLs found in search results
+2025-10-16 10:44:23 - state_arkansas - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

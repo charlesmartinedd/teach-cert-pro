@@ -1,0 +1,37 @@
+2025-10-16 10:52:07 - state_massachusetts - INFO - ============================================================
+2025-10-16 10:52:07 - state_massachusetts - INFO - Starting processing for Massachusetts
+2025-10-16 10:52:07 - state_massachusetts - INFO - ============================================================
+2025-10-16 10:52:07 - state_massachusetts - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:52:07 - state_massachusetts - INFO - Query 1/15: Massachusetts teacher certification test site:gov filetype:pdf
+2025-10-16 10:52:07 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:08 - state_massachusetts - INFO - Query 2/15: Massachusetts teaching license exam site:gov filetype:pdf
+2025-10-16 10:52:09 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:10 - state_massachusetts - INFO - Query 3/15: Massachusetts educator certification site:.gov filetype:pdf
+2025-10-16 10:52:11 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:12 - state_massachusetts - INFO - Query 4/15: Massachusetts teacher certification study guide filetype:pdf
+2025-10-16 10:52:13 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:14 - state_massachusetts - INFO - Query 5/15: Massachusetts teaching exam handbook filetype:pdf
+2025-10-16 10:52:15 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:16 - state_massachusetts - INFO - Query 6/15: Massachusetts educator test preparation guide filetype:pdf
+2025-10-16 10:52:17 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:18 - state_massachusetts - INFO - Query 7/15: Massachusetts department of education teacher certification filetype:pdf
+2025-10-16 10:52:19 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:20 - state_massachusetts - INFO - Query 8/15: Massachusetts state teacher exam requirements filetype:pdf
+2025-10-16 10:52:21 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:22 - state_massachusetts - INFO - Query 9/15: Massachusetts teaching license application guide filetype:pdf
+2025-10-16 10:52:23 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:24 - state_massachusetts - INFO - Query 10/15: Massachusetts teacher certification practice test pdf
+2025-10-16 10:52:25 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:26 - state_massachusetts - INFO - Query 11/15: Massachusetts teaching credential exam guide pdf
+2025-10-16 10:52:27 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:28 - state_massachusetts - INFO - Query 12/15: Massachusetts educator licensure test pdf
+2025-10-16 10:52:29 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:30 - state_massachusetts - INFO - Query 13/15: Massachusetts teacher praxis exam pdf
+2025-10-16 10:52:31 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:32 - state_massachusetts - INFO - Query 14/15: Massachusetts teaching assessment guide pdf
+2025-10-16 10:52:32 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:33 - state_massachusetts - INFO - Query 15/15: Massachusetts educator qualification test pdf
+2025-10-16 10:52:34 - state_massachusetts - INFO -   → Found 0 results
+2025-10-16 10:52:35 - state_massachusetts - INFO - Total unique URLs collected: 0
+2025-10-16 10:52:35 - state_massachusetts - WARNING - No URLs found in search results
+2025-10-16 10:52:35 - state_massachusetts - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

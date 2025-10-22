@@ -1,0 +1,37 @@
+2025-10-16 10:43:25 - state_arizona - INFO - ============================================================
+2025-10-16 10:43:25 - state_arizona - INFO - Starting processing for Arizona
+2025-10-16 10:43:25 - state_arizona - INFO - ============================================================
+2025-10-16 10:43:25 - state_arizona - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:43:25 - state_arizona - INFO - Query 1/15: Arizona teacher certification test site:gov filetype:pdf
+2025-10-16 10:43:26 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:27 - state_arizona - INFO - Query 2/15: Arizona teaching license exam site:gov filetype:pdf
+2025-10-16 10:43:28 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:29 - state_arizona - INFO - Query 3/15: Arizona educator certification site:.gov filetype:pdf
+2025-10-16 10:43:30 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:31 - state_arizona - INFO - Query 4/15: Arizona teacher certification study guide filetype:pdf
+2025-10-16 10:43:32 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:33 - state_arizona - INFO - Query 5/15: Arizona teaching exam handbook filetype:pdf
+2025-10-16 10:43:34 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:35 - state_arizona - INFO - Query 6/15: Arizona educator test preparation guide filetype:pdf
+2025-10-16 10:43:36 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:37 - state_arizona - INFO - Query 7/15: Arizona department of education teacher certification filetype:pdf
+2025-10-16 10:43:37 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:38 - state_arizona - INFO - Query 8/15: Arizona state teacher exam requirements filetype:pdf
+2025-10-16 10:43:39 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:40 - state_arizona - INFO - Query 9/15: Arizona teaching license application guide filetype:pdf
+2025-10-16 10:43:41 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:42 - state_arizona - INFO - Query 10/15: Arizona teacher certification practice test pdf
+2025-10-16 10:43:43 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:44 - state_arizona - INFO - Query 11/15: Arizona teaching credential exam guide pdf
+2025-10-16 10:43:45 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:46 - state_arizona - INFO - Query 12/15: Arizona educator licensure test pdf
+2025-10-16 10:43:47 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:48 - state_arizona - INFO - Query 13/15: Arizona teacher praxis exam pdf
+2025-10-16 10:43:49 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:50 - state_arizona - INFO - Query 14/15: Arizona teaching assessment guide pdf
+2025-10-16 10:43:51 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:52 - state_arizona - INFO - Query 15/15: Arizona educator qualification test pdf
+2025-10-16 10:43:53 - state_arizona - INFO -   → Found 0 results
+2025-10-16 10:43:54 - state_arizona - INFO - Total unique URLs collected: 0
+2025-10-16 10:43:54 - state_arizona - WARNING - No URLs found in search results
+2025-10-16 10:43:54 - state_arizona - WARNING - ✗ NO VALID PDF FOUND after exhausting all queries

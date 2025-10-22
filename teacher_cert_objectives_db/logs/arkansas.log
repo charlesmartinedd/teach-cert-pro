@@ -1,0 +1,13 @@
+2025-10-16 11:09:12,129 - INFO - ============================================================
+2025-10-16 11:09:12,129 - INFO - Processing Arkansas (AR)
+2025-10-16 11:09:12,129 - INFO - ============================================================
+2025-10-16 11:09:12,167 - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:12,184 - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:12,366 - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:12,542 - INFO - Created test: Arkansas Teaching Foundations (AR State Exam)
+2025-10-16 11:09:12,706 - INFO - 
+Completed Arkansas:
+2025-10-16 11:09:12,706 - INFO -   Tests: 3
+2025-10-16 11:09:12,706 - INFO -   Objectives: 21
+2025-10-16 11:09:12,707 - INFO -   Verified: 0
+2025-10-16 11:09:12,707 - INFO -   Inferred: 21

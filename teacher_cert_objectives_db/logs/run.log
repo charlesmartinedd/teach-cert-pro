@@ -1,0 +1,182 @@
+2025-10-16 11:09:10,153 - Orchestrator - INFO - 
+======================================================================
+2025-10-16 11:09:10,153 - Orchestrator - INFO - TEACHER CERTIFICATION OBJECTIVES DATABASE - FULL PIPELINE
+2025-10-16 11:09:10,154 - Orchestrator - INFO - ======================================================================
+
+2025-10-16 11:09:10,154 - Orchestrator - INFO - 
+[1/10] Processing Alabama...
+2025-10-16 11:09:10,155 - State_Alabama - INFO - ============================================================
+2025-10-16 11:09:10,155 - State_Alabama - INFO - Processing Alabama (AL)
+2025-10-16 11:09:10,155 - State_Alabama - INFO - ============================================================
+2025-10-16 11:09:10,199 - State_Alabama - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:10,223 - State_Alabama - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:10,498 - State_Alabama - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:10,686 - State_Alabama - INFO - Created test: Alabama Teaching Foundations (AL State Exam)
+2025-10-16 11:09:10,853 - State_Alabama - INFO - 
+Completed Alabama:
+2025-10-16 11:09:10,854 - State_Alabama - INFO -   Tests: 3
+2025-10-16 11:09:10,854 - State_Alabama - INFO -   Objectives: 21
+2025-10-16 11:09:10,855 - State_Alabama - INFO -   Verified: 0
+2025-10-16 11:09:10,855 - State_Alabama - INFO -   Inferred: 21
+2025-10-16 11:09:10,855 - Orchestrator - INFO - 
+[2/10] Processing Alaska...
+2025-10-16 11:09:10,857 - State_Alaska - INFO - ============================================================
+2025-10-16 11:09:10,857 - State_Alaska - INFO - Processing Alaska (AK)
+2025-10-16 11:09:10,857 - State_Alaska - INFO - ============================================================
+2025-10-16 11:09:10,899 - State_Alaska - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:10,920 - State_Alaska - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:11,175 - State_Alaska - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:11,347 - State_Alaska - INFO - Created test: Alaska Teaching Foundations (AK State Exam)
+2025-10-16 11:09:11,509 - State_Alaska - INFO - 
+Completed Alaska:
+2025-10-16 11:09:11,509 - State_Alaska - INFO -   Tests: 3
+2025-10-16 11:09:11,510 - State_Alaska - INFO -   Objectives: 21
+2025-10-16 11:09:11,510 - State_Alaska - INFO -   Verified: 0
+2025-10-16 11:09:11,511 - State_Alaska - INFO -   Inferred: 21
+2025-10-16 11:09:11,511 - Orchestrator - INFO - 
+[3/10] Processing Arizona...
+2025-10-16 11:09:11,512 - State_Arizona - INFO - ============================================================
+2025-10-16 11:09:11,512 - State_Arizona - INFO - Processing Arizona (AZ)
+2025-10-16 11:09:11,513 - State_Arizona - INFO - ============================================================
+2025-10-16 11:09:11,585 - State_Arizona - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:11,619 - State_Arizona - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:11,816 - State_Arizona - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:11,964 - State_Arizona - INFO - Created test: Arizona Teaching Foundations (AZ State Exam)
+2025-10-16 11:09:12,127 - State_Arizona - INFO - 
+Completed Arizona:
+2025-10-16 11:09:12,127 - State_Arizona - INFO -   Tests: 3
+2025-10-16 11:09:12,127 - State_Arizona - INFO -   Objectives: 21
+2025-10-16 11:09:12,128 - State_Arizona - INFO -   Verified: 0
+2025-10-16 11:09:12,128 - State_Arizona - INFO -   Inferred: 21
+2025-10-16 11:09:12,128 - Orchestrator - INFO - 
+[4/10] Processing Arkansas...
+2025-10-16 11:09:12,129 - State_Arkansas - INFO - ============================================================
+2025-10-16 11:09:12,129 - State_Arkansas - INFO - Processing Arkansas (AR)
+2025-10-16 11:09:12,129 - State_Arkansas - INFO - ============================================================
+2025-10-16 11:09:12,167 - State_Arkansas - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:12,184 - State_Arkansas - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:12,366 - State_Arkansas - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:12,542 - State_Arkansas - INFO - Created test: Arkansas Teaching Foundations (AR State Exam)
+2025-10-16 11:09:12,706 - State_Arkansas - INFO - 
+Completed Arkansas:
+2025-10-16 11:09:12,706 - State_Arkansas - INFO -   Tests: 3
+2025-10-16 11:09:12,706 - State_Arkansas - INFO -   Objectives: 21
+2025-10-16 11:09:12,707 - State_Arkansas - INFO -   Verified: 0
+2025-10-16 11:09:12,707 - State_Arkansas - INFO -   Inferred: 21
+2025-10-16 11:09:12,707 - Orchestrator - INFO - 
+[5/10] Processing California...
+2025-10-16 11:09:12,708 - State_California - INFO - ============================================================
+2025-10-16 11:09:12,709 - State_California - INFO - Processing California (CA)
+2025-10-16 11:09:12,709 - State_California - INFO - ============================================================
+2025-10-16 11:09:12,747 - State_California - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:12,767 - State_California - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:13,000 - State_California - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:13,146 - State_California - INFO - Created test: California Teaching Foundations (CA State Exam)
+2025-10-16 11:09:13,326 - State_California - INFO - 
+Completed California:
+2025-10-16 11:09:13,327 - State_California - INFO -   Tests: 3
+2025-10-16 11:09:13,327 - State_California - INFO -   Objectives: 21
+2025-10-16 11:09:13,327 - State_California - INFO -   Verified: 0
+2025-10-16 11:09:13,327 - State_California - INFO -   Inferred: 21
+2025-10-16 11:09:13,327 - Orchestrator - INFO - 
+[6/10] Processing Colorado...
+2025-10-16 11:09:13,328 - State_Colorado - INFO - ============================================================
+2025-10-16 11:09:13,329 - State_Colorado - INFO - Processing Colorado (CO)
+2025-10-16 11:09:13,329 - State_Colorado - INFO - ============================================================
+2025-10-16 11:09:13,391 - State_Colorado - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:13,418 - State_Colorado - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:13,627 - State_Colorado - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:13,756 - State_Colorado - INFO - Created test: Colorado Teaching Foundations (CO State Exam)
+2025-10-16 11:09:13,880 - State_Colorado - INFO - 
+Completed Colorado:
+2025-10-16 11:09:13,880 - State_Colorado - INFO -   Tests: 3
+2025-10-16 11:09:13,880 - State_Colorado - INFO -   Objectives: 21
+2025-10-16 11:09:13,882 - State_Colorado - INFO -   Verified: 0
+2025-10-16 11:09:13,882 - State_Colorado - INFO -   Inferred: 21
+2025-10-16 11:09:13,882 - Orchestrator - INFO - 
+[7/10] Processing Connecticut...
+2025-10-16 11:09:13,883 - State_Connecticut - INFO - ============================================================
+2025-10-16 11:09:13,883 - State_Connecticut - INFO - Processing Connecticut (CT)
+2025-10-16 11:09:13,884 - State_Connecticut - INFO - ============================================================
+2025-10-16 11:09:13,914 - State_Connecticut - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:13,933 - State_Connecticut - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:14,131 - State_Connecticut - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:14,335 - State_Connecticut - INFO - Created test: Connecticut Teaching Foundations (CT State Exam)
+2025-10-16 11:09:14,470 - State_Connecticut - INFO - 
+Completed Connecticut:
+2025-10-16 11:09:14,470 - State_Connecticut - INFO -   Tests: 3
+2025-10-16 11:09:14,470 - State_Connecticut - INFO -   Objectives: 21
+2025-10-16 11:09:14,470 - State_Connecticut - INFO -   Verified: 0
+2025-10-16 11:09:14,471 - State_Connecticut - INFO -   Inferred: 21
+2025-10-16 11:09:14,471 - Orchestrator - INFO - 
+[8/10] Processing Delaware...
+2025-10-16 11:09:14,472 - State_Delaware - INFO - ============================================================
+2025-10-16 11:09:14,473 - State_Delaware - INFO - Processing Delaware (DE)
+2025-10-16 11:09:14,473 - State_Delaware - INFO - ============================================================
+2025-10-16 11:09:14,507 - State_Delaware - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:14,522 - State_Delaware - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:14,745 - State_Delaware - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:14,885 - State_Delaware - INFO - Created test: Delaware Teaching Foundations (DE State Exam)
+2025-10-16 11:09:15,007 - State_Delaware - INFO - 
+Completed Delaware:
+2025-10-16 11:09:15,008 - State_Delaware - INFO -   Tests: 3
+2025-10-16 11:09:15,008 - State_Delaware - INFO -   Objectives: 21
+2025-10-16 11:09:15,010 - State_Delaware - INFO -   Verified: 0
+2025-10-16 11:09:15,010 - State_Delaware - INFO -   Inferred: 21
+2025-10-16 11:09:15,010 - Orchestrator - INFO - 
+[9/10] Processing Florida...
+2025-10-16 11:09:15,011 - State_Florida - INFO - ============================================================
+2025-10-16 11:09:15,012 - State_Florida - INFO - Processing Florida (FL)
+2025-10-16 11:09:15,012 - State_Florida - INFO - ============================================================
+2025-10-16 11:09:15,055 - State_Florida - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:15,069 - State_Florida - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:15,271 - State_Florida - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:15,431 - State_Florida - INFO - Created test: Florida Teaching Foundations (FL State Exam)
+2025-10-16 11:09:15,587 - State_Florida - INFO - 
+Completed Florida:
+2025-10-16 11:09:15,587 - State_Florida - INFO -   Tests: 3
+2025-10-16 11:09:15,587 - State_Florida - INFO -   Objectives: 21
+2025-10-16 11:09:15,588 - State_Florida - INFO -   Verified: 0
+2025-10-16 11:09:15,588 - State_Florida - INFO -   Inferred: 21
+2025-10-16 11:09:15,588 - Orchestrator - INFO - 
+[10/10] Processing Georgia...
+2025-10-16 11:09:15,589 - State_Georgia - INFO - ============================================================
+2025-10-16 11:09:15,590 - State_Georgia - INFO - Processing Georgia (GA)
+2025-10-16 11:09:15,590 - State_Georgia - INFO - ============================================================
+2025-10-16 11:09:15,625 - State_Georgia - INFO - Generating sample test data for demonstration...
+2025-10-16 11:09:15,670 - State_Georgia - INFO - Created test: Elementary Education: Multiple Subjects (Praxis)
+2025-10-16 11:09:15,911 - State_Georgia - INFO - Created test: Mathematics: Content Knowledge (Praxis)
+2025-10-16 11:09:16,045 - State_Georgia - INFO - Created test: Georgia Teaching Foundations (GA State Exam)
+2025-10-16 11:09:16,199 - State_Georgia - INFO - 
+Completed Georgia:
+2025-10-16 11:09:16,199 - State_Georgia - INFO -   Tests: 3
+2025-10-16 11:09:16,200 - State_Georgia - INFO -   Objectives: 21
+2025-10-16 11:09:16,201 - State_Georgia - INFO -   Verified: 0
+2025-10-16 11:09:16,202 - State_Georgia - INFO -   Inferred: 21
+2025-10-16 11:09:16,202 - Orchestrator - INFO - 
+======================================================================
+2025-10-16 11:09:16,202 - Orchestrator - INFO - GENERATING REPORTS
+2025-10-16 11:09:16,202 - Orchestrator - INFO - ======================================================================
+
+2025-10-16 11:09:16,286 - Orchestrator - INFO - 
+======================================================================
+2025-10-16 11:09:16,286 - Orchestrator - INFO - PIPELINE COMPLETE
+2025-10-16 11:09:16,286 - Orchestrator - INFO - ======================================================================
+2025-10-16 11:09:16,286 - Orchestrator - INFO - 
+States Processed: 10
+2025-10-16 11:09:16,286 - Orchestrator - INFO - Total Tests: 30
+2025-10-16 11:09:16,286 - Orchestrator - INFO - Total Objectives: 210
+2025-10-16 11:09:16,286 - Orchestrator - INFO -   - Verified: 0
+2025-10-16 11:09:16,286 - Orchestrator - INFO -   - Inferred: 210
+2025-10-16 11:09:16,287 - Orchestrator - INFO -   - Verified %: 0.0%
+2025-10-16 11:09:16,287 - Orchestrator - INFO -   - Inferred %: 100.0%
+2025-10-16 11:09:16,287 - Orchestrator - INFO - 
+Generated Files:
+2025-10-16 11:09:16,287 - Orchestrator - INFO -   - json: C:\Users\charl\AI Projects\projects\teacher_cert_objectives_db\outputs\all_states_objectives.json
+2025-10-16 11:09:16,287 - Orchestrator - INFO -   - csv: C:\Users\charl\AI Projects\projects\teacher_cert_objectives_db\outputs\all_states_objectives.csv
+2025-10-16 11:09:16,287 - Orchestrator - INFO -   - validation: C:\Users\charl\AI Projects\projects\teacher_cert_objectives_db\outputs\validation_summary.csv
+2025-10-16 11:09:16,287 - Orchestrator - INFO -   - coverage: C:\Users\charl\AI Projects\projects\teacher_cert_objectives_db\reports\coverage_summary.md
+2025-10-16 11:09:16,287 - Orchestrator - INFO - 
+Database: C:\Users\charl\AI Projects\projects\teacher_cert_objectives_db\db\objectives.sqlite
+2025-10-16 11:09:16,287 - Orchestrator - INFO - ======================================================================
+

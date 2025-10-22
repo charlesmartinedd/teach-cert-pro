@@ -1,0 +1,11 @@
+2025-10-16 10:56:56 - state_new_mexico - INFO - ============================================================
+2025-10-16 10:56:56 - state_new_mexico - INFO - Starting processing for New Mexico
+2025-10-16 10:56:56 - state_new_mexico - INFO - ============================================================
+2025-10-16 10:56:56 - state_new_mexico - INFO - Phase 1: Searching for PDF links...
+2025-10-16 10:56:56 - state_new_mexico - INFO - Query 1/15: New Mexico teacher certification test site:gov filetype:pdf
+2025-10-16 10:56:56 - state_new_mexico - INFO -   → Found 0 results
+2025-10-16 10:56:57 - state_new_mexico - INFO - Query 2/15: New Mexico teaching license exam site:gov filetype:pdf
+2025-10-16 10:56:58 - state_new_mexico - INFO -   → Found 0 results
+2025-10-16 10:56:59 - state_new_mexico - INFO - Query 3/15: New Mexico educator certification site:.gov filetype:pdf
+2025-10-16 10:57:00 - state_new_mexico - INFO -   → Found 0 results
+2025-10-16 10:57:01 - state_new_mexico - INFO - Query 4/15: New Mexico teacher certification study guide filetype:pdf
